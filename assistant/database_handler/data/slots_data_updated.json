@@ -1,0 +1,400 @@
+{"_id":{"$oid":"65c3e57191dd86b40903edc9"},"status":"Not Booked","name":"Sean Garcia","fees":"£60.95","available_slot":"08/03/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903edca"},"status":"Not Booked","name":"Anna Lindsey","fees":"£82.01","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903edcb"},"status":"Not Booked","name":"Shannon Summers","fees":"£30.64","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903edcc"},"status":"Not Booked","name":"Kristina Miller","fees":"£48.51","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903edcd"},"status":"Not Booked","name":"Justin Wells","fees":"£62.5","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903edce"},"status":"Not Booked","name":"Maria Scott","fees":"£64.43","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903edcf"},"status":"Not Booked","name":"Sean Casey","fees":"£37.71","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903edd0"},"status":"Not Booked","name":"Megan Gray","fees":"£64.05","available_slot":"10/03/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903edd1"},"status":"Not Booked","name":"Julie Avery","fees":"£47.38","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903edd2"},"status":"Not Booked","name":"Joe Chandler","fees":"£99.34","available_slot":"14/06/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903edd3"},"status":"Not Booked","name":"Andrew Powell","fees":"£80.19","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903edd4"},"status":"Not Booked","name":"Kenneth Rangel","fees":"£16.54","available_slot":"08/04/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903edd5"},"status":"Not Booked","name":"Richard Keller","fees":"£57.83","available_slot":"27/03/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903edd6"},"status":"Not Booked","name":"Joyce Oconnor","fees":"£27.02","available_slot":"07/04/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903edd7"},"status":"Not Booked","name":"Kevin Dixon","fees":"£31.01","available_slot":"09/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903edd8"},"status":"Not Booked","name":"Timothy Johnson","fees":"£89.71","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903edd9"},"status":"Not Booked","name":"Michelle Perez","fees":"£72.12","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903edda"},"status":"Not Booked","name":"Hannah Durham","fees":"£13.65","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903eddb"},"status":"Not Booked","name":"Angel Carpenter","fees":"£37.27","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903eddc"},"status":"Not Booked","name":"Carolyn Walker","fees":"£91.85","available_slot":"12/04/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903eddd"},"status":"Not Booked","name":"Renee Wiggins","fees":"£31.69","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903edde"},"status":"Not Booked","name":"Thomas Martinez","fees":"£42.93","available_slot":"13/04/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903eddf"},"status":"Not Booked","name":"Joan Roberts","fees":"£90.66","available_slot":"06/05/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ede0"},"status":"Not Booked","name":"William Ayers","fees":"£39.82","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ede1"},"status":"Not Booked","name":"John Hawkins","fees":"£94.06","available_slot":"08/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ede2"},"status":"Not Booked","name":"Michael Miller","fees":"£72.81","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ede3"},"status":"Not Booked","name":"Michelle Buchanan","fees":"£13.82","available_slot":"12/02/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ede4"},"status":"Not Booked","name":"Matthew Powell","fees":"£65.24","available_slot":"14/03/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ede5"},"status":"Not Booked","name":"Donna Arnold","fees":"£38.07","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ede6"},"status":"Not Booked","name":"Scott Williams","fees":"£70.15","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ede7"},"status":"Not Booked","name":"Mariah Cooke","fees":"£33.48","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ede8"},"status":"Not Booked","name":"Autumn Cardenas","fees":"£84.84","available_slot":"16/04/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ede9"},"status":"Not Booked","name":"Karina Vance","fees":"£92.91","available_slot":"04/04/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903edea"},"status":"Not Booked","name":"Jessica Allen","fees":"£73.17","available_slot":"28/06/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903edeb"},"status":"Not Booked","name":"Veronica Brown","fees":"£96.57","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903edec"},"status":"Not Booked","name":"Chad Williams","fees":"£11.71","available_slot":"22/03/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903eded"},"status":"Not Booked","name":"Mercedes Jones","fees":"£93.25","available_slot":"02/01/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903edee"},"status":"Not Booked","name":"Robert Newman","fees":"£32.59","available_slot":"28/06/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903edef"},"status":"Not Booked","name":"Kyle Shepard","fees":"£30.89","available_slot":"07/03/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903edf0"},"status":"Not Booked","name":"Stacey Holland","fees":"£16.91","available_slot":"25/06/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903edf1"},"status":"Not Booked","name":"Martin Henson","fees":"£47.05","available_slot":"05/01/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903edf2"},"status":"Not Booked","name":"Brian Brown","fees":"£88.54","available_slot":"08/03/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903edf3"},"status":"Not Booked","name":"Rachel Carlson","fees":"£47.25","available_slot":"25/05/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903edf4"},"status":"Not Booked","name":"Kendra Johnson","fees":"£83.29","available_slot":"23/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903edf5"},"status":"Not Booked","name":"Kristen Jones","fees":"£25.47","available_slot":"12/05/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903edf6"},"status":"Not Booked","name":"Heidi Ray","fees":"£82.02","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903edf7"},"status":"Not Booked","name":"Amanda Smith","fees":"£75.64","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903edf8"},"status":"Not Booked","name":"Daniel Mccormick","fees":"£99.84","available_slot":"02/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903edf9"},"status":"Not Booked","name":"Samuel Smith","fees":"£86.98","available_slot":"14/04/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903edfa"},"status":"Not Booked","name":"Kayla Price","fees":"£76.15","available_slot":"06/04/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903edfb"},"status":"Not Booked","name":"Kimberly Parker","fees":"£74.69","available_slot":"07/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903edfc"},"status":"Not Booked","name":"Terri Peters","fees":"£57.01","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903edfd"},"status":"Not Booked","name":"Scott Lewis","fees":"£58.08","available_slot":"27/01/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903edfe"},"status":"Not Booked","name":"Brenda Aguirre","fees":"£66.84","available_slot":"28/06/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903edff"},"status":"Not Booked","name":"Brandon Wright","fees":"£52.83","available_slot":"20/01/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee00"},"status":"Not Booked","name":"Steve Martin","fees":"£77.66","available_slot":"26/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee01"},"status":"Not Booked","name":"James Kim","fees":"£28.2","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee02"},"status":"Not Booked","name":"Perry Jimenez","fees":"£47.2","available_slot":"02/03/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee03"},"status":"Not Booked","name":"Stephanie Douglas","fees":"£48.01","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee04"},"status":"Not Booked","name":"Elizabeth Molina","fees":"£88.8","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee05"},"status":"Not Booked","name":"Kyle Cole","fees":"£16.07","available_slot":"01/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee06"},"status":"Not Booked","name":"Bryce Todd","fees":"£51.33","available_slot":"08/04/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee07"},"status":"Not Booked","name":"Matthew Hayes","fees":"£22.01","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee08"},"status":"Not Booked","name":"Barry Perez","fees":"£48.66","available_slot":"27/05/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee09"},"status":"Not Booked","name":"Patricia Berg","fees":"£70.24","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee0a"},"status":"Not Booked","name":"Mary Hendricks","fees":"£68.26","available_slot":"12/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee0b"},"status":"Not Booked","name":"James Reid","fees":"£95.9","available_slot":"21/06/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee0c"},"status":"Not Booked","name":"Troy Williams","fees":"£29.41","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee0d"},"status":"Not Booked","name":"Victoria Gibson","fees":"£13.34","available_slot":"09/06/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee0e"},"status":"Not Booked","name":"Christy Martinez","fees":"£30.04","available_slot":"17/01/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee0f"},"status":"Not Booked","name":"David Nguyen","fees":"£34.53","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee10"},"status":"Not Booked","name":"Cassandra Reid","fees":"£12.99","available_slot":"01/02/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee11"},"status":"Not Booked","name":"Lawrence Johnson","fees":"£71.24","available_slot":"13/02/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee12"},"status":"Not Booked","name":"Arthur Valdez","fees":"£63.1","available_slot":"18/01/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee13"},"status":"Not Booked","name":"Evan Ferguson","fees":"£61.3","available_slot":"13/03/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee14"},"status":"Not Booked","name":"John Bradshaw","fees":"£55.85","available_slot":"13/06/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee15"},"status":"Not Booked","name":"Carla Fischer","fees":"£24.9","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee16"},"status":"Not Booked","name":"Emily Lopez","fees":"£41.42","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee17"},"status":"Not Booked","name":"Nicholas Griffin","fees":"£95.93","available_slot":"21/01/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee18"},"status":"Not Booked","name":"Sean Cruz","fees":"£55.73","available_slot":"11/03/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee19"},"status":"Not Booked","name":"Elizabeth Knight","fees":"£12.05","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee1a"},"status":"Not Booked","name":"Margaret Thompson","fees":"£55.06","available_slot":"25/06/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee1b"},"status":"Not Booked","name":"Timothy Sharp","fees":"£95.43","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee1c"},"status":"Not Booked","name":"Erica Parks","fees":"£60.07","available_slot":"15/03/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee1d"},"status":"Not Booked","name":"Johnny Lara","fees":"£49.39","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee1e"},"status":"Not Booked","name":"Melody Berry","fees":"£79.08","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee1f"},"status":"Not Booked","name":"Joseph Rich","fees":"£77.6","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee20"},"status":"Not Booked","name":"Dustin Marshall","fees":"£63.66","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee21"},"status":"Not Booked","name":"Jennifer Fisher","fees":"£15.92","available_slot":"16/05/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee22"},"status":"Not Booked","name":"Maxwell Montgomery","fees":"£76.2","available_slot":"25/04/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee23"},"status":"Not Booked","name":"Sharon Brooks","fees":"£48.32","available_slot":"25/04/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee24"},"status":"Not Booked","name":"Amy Cox","fees":"£97.6","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee25"},"status":"Not Booked","name":"Jonathan Peters","fees":"£47.25","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee26"},"status":"Not Booked","name":"John Hernandez","fees":"£81.69","available_slot":"24/03/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee27"},"status":"Not Booked","name":"Brian Schwartz","fees":"£30.14","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee28"},"status":"Not Booked","name":"Erik Marshall","fees":"£82.36","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee29"},"status":"Not Booked","name":"Michael Simpson","fees":"£49.42","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee2a"},"status":"Not Booked","name":"Emma Perry","fees":"£57.55","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee2b"},"status":"Not Booked","name":"Julian Wells","fees":"£82.55","available_slot":"28/03/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee2c"},"status":"Not Booked","name":"Kathleen Sanders","fees":"£24.47","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee2d"},"status":"Not Booked","name":"Jacqueline Maxwell","fees":"£76.84","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee2e"},"status":"Not Booked","name":"Sarah Evans","fees":"£36.76","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee2f"},"status":"Not Booked","name":"Kyle Thompson","fees":"£51.02","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee30"},"status":"Not Booked","name":"Joseph Sims","fees":"£68.06","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee31"},"status":"Not Booked","name":"Kayla Hernandez","fees":"£87.82","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee32"},"status":"Not Booked","name":"Lori Mckinney","fees":"£73.46","available_slot":"21/02/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee33"},"status":"Not Booked","name":"Michael Lee","fees":"£10.65","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee34"},"status":"Not Booked","name":"Sarah White","fees":"£54.33","available_slot":"26/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee35"},"status":"Not Booked","name":"Beth Johnson","fees":"£90.71","available_slot":"15/02/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee36"},"status":"Not Booked","name":"Brandon Gonzalez","fees":"£35.03","available_slot":"26/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee37"},"status":"Not Booked","name":"Douglas Braun","fees":"£81.57","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee38"},"status":"Not Booked","name":"Joseph Trujillo","fees":"£59.86","available_slot":"19/03/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee39"},"status":"Not Booked","name":"Valerie Perry","fees":"£94.27","available_slot":"07/01/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee3a"},"status":"Not Booked","name":"Caitlin Morgan","fees":"£70.3","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee3b"},"status":"Not Booked","name":"Sabrina Mcgee","fees":"£27.11","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee3c"},"status":"Not Booked","name":"Nicole White","fees":"£61.19","available_slot":"18/04/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee3d"},"status":"Not Booked","name":"Richard Bruce","fees":"£39.64","available_slot":"11/06/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee3e"},"status":"Not Booked","name":"April Carter","fees":"£19.6","available_slot":"01/03/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee3f"},"status":"Not Booked","name":"Megan Moore","fees":"£81.26","available_slot":"14/01/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee40"},"status":"Not Booked","name":"Austin Gonzalez","fees":"£80.82","available_slot":"05/03/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee41"},"status":"Not Booked","name":"Dylan Bolton","fees":"£36.12","available_slot":"02/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee42"},"status":"Not Booked","name":"Brian Smith","fees":"£98.93","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee43"},"status":"Not Booked","name":"Brett Brown","fees":"£28.05","available_slot":"12/01/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee44"},"status":"Not Booked","name":"Katherine Shea","fees":"£32.28","available_slot":"19/05/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee45"},"status":"Not Booked","name":"Stacy Taylor","fees":"£75.04","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee46"},"status":"Not Booked","name":"Jennifer Woods","fees":"£38.78","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee47"},"status":"Not Booked","name":"Melanie Woods","fees":"£87.24","available_slot":"27/05/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee48"},"status":"Not Booked","name":"Jay Fowler","fees":"£64.39","available_slot":"17/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee49"},"status":"Not Booked","name":"Eric Warren","fees":"£65.85","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee4a"},"status":"Not Booked","name":"Jeanette Perez","fees":"£11.43","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee4b"},"status":"Not Booked","name":"Jay Middleton","fees":"£32.89","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee4c"},"status":"Not Booked","name":"Ann Wyatt","fees":"£31.67","available_slot":"12/01/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee4d"},"status":"Not Booked","name":"Craig King","fees":"£23.98","available_slot":"15/03/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee4e"},"status":"Not Booked","name":"Evan Hensley","fees":"£34.87","available_slot":"28/02/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee4f"},"status":"Not Booked","name":"Jennifer Johnson","fees":"£83.06","available_slot":"02/03/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee50"},"status":"Not Booked","name":"Barbara Holt","fees":"£62.08","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee51"},"status":"Not Booked","name":"Joseph Lyons","fees":"£23.1","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee52"},"status":"Not Booked","name":"Luis Bean","fees":"£71.07","available_slot":"06/04/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee53"},"status":"Not Booked","name":"Erik Chang","fees":"£21.52","available_slot":"02/01/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee54"},"status":"Not Booked","name":"Elizabeth Robertson","fees":"£17.38","available_slot":"03/03/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee55"},"status":"Not Booked","name":"Kathy Bryant","fees":"£40.93","available_slot":"08/05/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee56"},"status":"Not Booked","name":"Ashley Harrington","fees":"£60.82","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee57"},"status":"Not Booked","name":"Bradley Pierce","fees":"£25.64","available_slot":"08/06/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee58"},"status":"Not Booked","name":"Andrew Baldwin","fees":"£55.55","available_slot":"26/01/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee59"},"status":"Not Booked","name":"Shirley Young","fees":"£66.6","available_slot":"03/02/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee5a"},"status":"Not Booked","name":"Mary Willis","fees":"£14.92","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee5b"},"status":"Not Booked","name":"Maurice Ball","fees":"£13.41","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee5c"},"status":"Not Booked","name":"Teresa James","fees":"£22.46","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee5d"},"status":"Not Booked","name":"Amanda Sparks","fees":"£85.52","available_slot":"03/03/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee5e"},"status":"Not Booked","name":"Pamela Williamson","fees":"£44.76","available_slot":"26/05/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee5f"},"status":"Not Booked","name":"Benjamin Silva","fees":"£55.57","available_slot":"13/04/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee60"},"status":"Not Booked","name":"Tiffany Krause","fees":"£17.85","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee61"},"status":"Not Booked","name":"Michael Jackson","fees":"£47.9","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee62"},"status":"Not Booked","name":"Carol Robertson","fees":"£61.88","available_slot":"01/05/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee63"},"status":"Not Booked","name":"Maria Smith","fees":"£10.82","available_slot":"24/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee64"},"status":"Not Booked","name":"Stephen Turner","fees":"£30.93","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee65"},"status":"Not Booked","name":"Chelsea Griffin","fees":"£50.27","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee66"},"status":"Not Booked","name":"Erica Rice","fees":"£79.74","available_slot":"16/03/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee67"},"status":"Not Booked","name":"Matthew Gonzalez","fees":"£58.61","available_slot":"18/01/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee68"},"status":"Not Booked","name":"Micheal Hall","fees":"£24.44","available_slot":"21/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee69"},"status":"Not Booked","name":"Jasmine Knapp","fees":"£41.01","available_slot":"09/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee6a"},"status":"Not Booked","name":"Andrew Russell","fees":"£66.12","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee6b"},"status":"Not Booked","name":"Patricia Scott","fees":"£38.6","available_slot":"25/03/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee6c"},"status":"Not Booked","name":"Virginia Cohen","fees":"£93.39","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee6d"},"status":"Not Booked","name":"Jeffrey Yang","fees":"£58.66","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee6e"},"status":"Not Booked","name":"Joyce Murphy","fees":"£20.59","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee6f"},"status":"Not Booked","name":"Elizabeth Reeves","fees":"£75.74","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee70"},"status":"Not Booked","name":"Henry Shields","fees":"£93.73","available_slot":"19/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee71"},"status":"Not Booked","name":"Adam Hall","fees":"£10.6","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee72"},"status":"Not Booked","name":"Miranda Owen","fees":"£83.18","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee73"},"status":"Not Booked","name":"Susan Simmons","fees":"£25.87","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee74"},"status":"Not Booked","name":"David Schultz","fees":"£76.33","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee75"},"status":"Not Booked","name":"Judy Williams","fees":"£73.6","available_slot":"27/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee76"},"status":"Not Booked","name":"Edward Dunlap","fees":"£63.89","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee77"},"status":"Not Booked","name":"Michael Martinez","fees":"£63.05","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee78"},"status":"Not Booked","name":"Tracy Gonzalez","fees":"£32.58","available_slot":"20/04/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee79"},"status":"Not Booked","name":"Stephen Johnson","fees":"£78.46","available_slot":"25/03/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee7a"},"status":"Not Booked","name":"Christine Wallace","fees":"£20.89","available_slot":"14/04/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee7b"},"status":"Not Booked","name":"William Cole","fees":"£81.29","available_slot":"13/03/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee7c"},"status":"Not Booked","name":"Curtis Jones","fees":"£28.16","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee7d"},"status":"Not Booked","name":"Tanya Powers","fees":"£60.87","available_slot":"05/01/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee7e"},"status":"Not Booked","name":"Karina Weaver","fees":"£50.94","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee7f"},"status":"Not Booked","name":"Erin Ferguson","fees":"£17.54","available_slot":"05/03/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee80"},"status":"Not Booked","name":"Jennifer Weber","fees":"£44.49","available_slot":"20/01/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee81"},"status":"Not Booked","name":"Scott Parker","fees":"£59.67","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee82"},"status":"Not Booked","name":"Frank White","fees":"£54.87","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee83"},"status":"Not Booked","name":"Katie Mclean","fees":"£46.48","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee84"},"status":"Not Booked","name":"Jasmine Wong","fees":"£28.02","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee85"},"status":"Not Booked","name":"Christian Holland","fees":"£67.07","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee86"},"status":"Not Booked","name":"Nicole Price","fees":"£75.3","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee87"},"status":"Not Booked","name":"Isabel Gillespie","fees":"£51.02","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee88"},"status":"Not Booked","name":"Stephanie Booth","fees":"£26.87","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee89"},"status":"Not Booked","name":"Tina Miller","fees":"£47.15","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee8a"},"status":"Not Booked","name":"Mike Garcia","fees":"£45.03","available_slot":"05/03/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee8b"},"status":"Not Booked","name":"David Bowman","fees":"£27.65","available_slot":"26/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee8c"},"status":"Not Booked","name":"Abigail Roberson","fees":"£33.15","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee8d"},"status":"Not Booked","name":"Lisa Miller","fees":"£20.9","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee8e"},"status":"Not Booked","name":"Justin Wells","fees":"£65.56","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee8f"},"status":"Not Booked","name":"Nathan Wilkerson","fees":"£63.79","available_slot":"16/02/2024"}
+{"_id":{"$oid":"65c3e57191dd86b40903ee90"},"status":"Not Booked","name":"Luke Jefferson","fees":"£39.06","available_slot":"05/03/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc22"},"level":"Beginner","session_type":"Group","status":"Not Booked","name":"Joyce Oconnor","fees":"£27.02","available_slot":"07/04/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc23"},"level":"Beginner","session_type":"Group","status":"Not Booked","name":"Shannon Summers","fees":"£30.64","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc24"},"level":"Beginner","session_type":"Group","status":"Not Booked","name":"Kristina Miller","fees":"£48.51","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc25"},"level":"Beginner","session_type":"Group","status":"Not Booked","name":"Anna Lindsey","fees":"£82.01","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc26"},"level":"Beginner","session_type":"Group","status":"Not Booked","name":"Justin Wells","fees":"£62.5","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc27"},"level":"Beginner","session_type":"Group","status":"Not Booked","name":"William Ayers","fees":"£39.82","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc28"},"level":"Beginner","session_type":"Group","status":"Not Booked","name":"Sean Garcia","fees":"£60.95","available_slot":"08/03/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc29"},"level":"Beginner","session_type":"Group","status":"Not Booked","name":"Hannah Durham","fees":"£13.65","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc2a"},"level":"Beginner","session_type":"Group","status":"Not Booked","name":"Joan Roberts","fees":"£90.66","available_slot":"06/05/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc2b"},"level":"Beginner","session_type":"Group","status":"Not Booked","name":"Renee Wiggins","fees":"£31.69","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc2c"},"level":"Beginner","session_type":"Group","status":"Not Booked","name":"Kevin Dixon","fees":"£31.01","available_slot":"09/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc2d"},"level":"Beginner","session_type":"Group","status":"Not Booked","name":"Thomas Martinez","fees":"£42.93","available_slot":"13/04/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc2e"},"level":"Beginner","session_type":"Group","status":"Not Booked","name":"Michelle Perez","fees":"£72.12","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc2f"},"level":"Beginner","session_type":"Group","status":"Not Booked","name":"Maria Scott","fees":"£64.43","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc30"},"level":"Beginner","session_type":"Group","status":"Not Booked","name":"Sean Casey","fees":"£37.71","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc31"},"level":"Beginner","session_type":"Group","status":"Not Booked","name":"Kenneth Rangel","fees":"£16.54","available_slot":"08/04/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc32"},"level":"Beginner","session_type":"Group","status":"Not Booked","name":"Julie Avery","fees":"£47.38","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc33"},"level":"Beginner","session_type":"Group","status":"Not Booked","name":"Joe Chandler","fees":"£99.34","available_slot":"14/06/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc34"},"level":"Beginner","session_type":"Group","status":"Not Booked","name":"Megan Gray","fees":"£64.05","available_slot":"10/03/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc35"},"level":"Beginner","session_type":"Group","status":"Not Booked","name":"Andrew Powell","fees":"£80.19","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc36"},"level":"Beginner","session_type":"Group","status":"Not Booked","name":"Richard Keller","fees":"£57.83","available_slot":"27/03/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc37"},"level":"Beginner","session_type":"Group","status":"Not Booked","name":"Angel Carpenter","fees":"£37.27","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc38"},"level":"Beginner","session_type":"Group","status":"Not Booked","name":"Carolyn Walker","fees":"£91.85","available_slot":"12/04/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc39"},"level":"Beginner","session_type":"Group","status":"Not Booked","name":"John Hawkins","fees":"£94.06","available_slot":"08/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc3a"},"level":"Beginner","session_type":"Group","status":"Not Booked","name":"Timothy Johnson","fees":"£89.71","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc3b"},"level":"Beginner","session_type":"Group","status":"Not Booked","name":"Michelle Buchanan","fees":"£13.82","available_slot":"12/02/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc3c"},"level":"Beginner","session_type":"Group","status":"Not Booked","name":"Michael Miller","fees":"£72.81","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc3d"},"level":"Beginner","session_type":"Group","status":"Not Booked","name":"Matthew Powell","fees":"£65.24","available_slot":"14/03/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc3e"},"level":"Beginner","session_type":"Group","status":"Not Booked","name":"Donna Arnold","fees":"£38.07","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc3f"},"level":"Beginner","session_type":"Group","status":"Not Booked","name":"Terri Peters","fees":"£57.01","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc40"},"level":"Beginner","session_type":"Group","status":"Not Booked","name":"Brenda Aguirre","fees":"£66.84","available_slot":"28/06/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc41"},"level":"Beginner","session_type":"Group","status":"Not Booked","name":"Scott Williams","fees":"£70.15","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc42"},"level":"Beginner","session_type":"one to one","status":"Not Booked","name":"Scott Lewis","fees":"£58.08","available_slot":"27/01/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc43"},"level":"Beginner","session_type":"one to one","status":"Not Booked","name":"Brandon Wright","fees":"£52.83","available_slot":"20/01/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc44"},"level":"Beginner","session_type":"one to one","status":"Not Booked","name":"Mariah Cooke","fees":"£33.48","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc45"},"level":"Beginner","session_type":"one to one","status":"Not Booked","name":"Daniel Mccormick","fees":"£99.84","available_slot":"02/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc46"},"level":"Beginner","session_type":"one to one","status":"Not Booked","name":"Kayla Price","fees":"£76.15","available_slot":"06/04/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc47"},"level":"Beginner","session_type":"one to one","status":"Not Booked","name":"Samuel Smith","fees":"£86.98","available_slot":"14/04/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc48"},"level":"Beginner","session_type":"one to one","status":"Not Booked","name":"Kimberly Parker","fees":"£74.69","available_slot":"07/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc49"},"level":"Beginner","session_type":"one to one","status":"Not Booked","name":"Autumn Cardenas","fees":"£84.84","available_slot":"16/04/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc4a"},"level":"Beginner","session_type":"one to one","status":"Not Booked","name":"Karina Vance","fees":"£92.91","available_slot":"04/04/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc4b"},"level":"Intermediate","session_type":"one to one","status":"Not Booked","name":"Jessica Allen","fees":"£73.17","available_slot":"28/06/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc4c"},"level":"Intermediate","session_type":"one to one","status":"Not Booked","name":"Veronica Brown","fees":"£96.57","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc4d"},"level":"Intermediate","session_type":"one to one","status":"Not Booked","name":"Chad Williams","fees":"£11.71","available_slot":"22/03/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc4e"},"level":"Intermediate","session_type":"one to one","status":"Not Booked","name":"Mercedes Jones","fees":"£93.25","available_slot":"02/01/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc4f"},"level":"Intermediate","session_type":"one to one","status":"Not Booked","name":"Robert Newman","fees":"£32.59","available_slot":"28/06/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc50"},"level":"Intermediate","session_type":"one to one","status":"Not Booked","name":"Kyle Shepard","fees":"£30.89","available_slot":"07/03/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc51"},"level":"Intermediate","session_type":"one to one","status":"Not Booked","name":"Stacey Holland","fees":"£16.91","available_slot":"25/06/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc52"},"level":"Intermediate","session_type":"one to one","status":"Not Booked","name":"Martin Henson","fees":"£47.05","available_slot":"05/01/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc53"},"level":"Intermediate","session_type":"one to one","status":"Not Booked","name":"Brian Brown","fees":"£88.54","available_slot":"08/03/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc54"},"level":"Intermediate","session_type":"one to one","status":"Not Booked","name":"Rachel Carlson","fees":"£47.25","available_slot":"25/05/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc55"},"level":"Intermediate","session_type":"one to one","status":"Not Booked","name":"Kendra Johnson","fees":"£83.29","available_slot":"23/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc56"},"level":"Intermediate","session_type":"one to one","status":"Not Booked","name":"Steve Martin","fees":"£77.66","available_slot":"26/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc57"},"level":"Intermediate","session_type":"one to one","status":"Not Booked","name":"James Kim","fees":"£28.2","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc58"},"level":"Intermediate","session_type":"one to one","status":"Not Booked","name":"Kristen Jones","fees":"£25.47","available_slot":"12/05/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc59"},"level":"Intermediate","session_type":"one to one","status":"Not Booked","name":"Amanda Smith","fees":"£75.64","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc5a"},"level":"Intermediate","session_type":"one to one","status":"Not Booked","name":"Stephanie Douglas","fees":"£48.01","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc5b"},"level":"Intermediate","session_type":"one to one","status":"Not Booked","name":"Perry Jimenez","fees":"£47.2","available_slot":"02/03/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc5c"},"level":"Intermediate","session_type":"one to one","status":"Not Booked","name":"Elizabeth Molina","fees":"£88.8","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc5d"},"level":"Intermediate","session_type":"one to one","status":"Not Booked","name":"Kyle Cole","fees":"£16.07","available_slot":"01/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc5e"},"level":"Intermediate","session_type":"one to one","status":"Not Booked","name":"Bryce Todd","fees":"£51.33","available_slot":"08/04/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc5f"},"level":"Intermediate","session_type":"one to one","status":"Not Booked","name":"Matthew Hayes","fees":"£22.01","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc60"},"level":"Intermediate","session_type":"one to one","status":"Not Booked","name":"Barry Perez","fees":"£48.66","available_slot":"27/05/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc61"},"level":"Intermediate","session_type":"one to one","status":"Not Booked","name":"Patricia Berg","fees":"£70.24","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc62"},"level":"Intermediate","session_type":"one to one","status":"Not Booked","name":"James Reid","fees":"£95.9","available_slot":"21/06/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc63"},"level":"Intermediate","session_type":"one to one","status":"Not Booked","name":"Heidi Ray","fees":"£82.02","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc64"},"level":"Intermediate","session_type":"one to one","status":"Not Booked","name":"Mary Hendricks","fees":"£68.26","available_slot":"12/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc65"},"level":"Intermediate","session_type":"one to one","status":"Not Booked","name":"Troy Williams","fees":"£29.41","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc66"},"level":"Intermediate","session_type":"one to one","status":"Not Booked","name":"Victoria Gibson","fees":"£13.34","available_slot":"09/06/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc67"},"level":"Intermediate","session_type":"one to one","status":"Not Booked","name":"Christy Martinez","fees":"£30.04","available_slot":"17/01/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc68"},"level":"Intermediate","session_type":"one to one","status":"Not Booked","name":"David Nguyen","fees":"£34.53","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc69"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Cassandra Reid","fees":"£12.99","available_slot":"01/02/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc6a"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Craig King","fees":"£23.98","available_slot":"15/03/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc6b"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Jennifer Johnson","fees":"£83.06","available_slot":"02/03/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc6c"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Ann Wyatt","fees":"£31.67","available_slot":"12/01/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc6d"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Maria Smith","fees":"£10.82","available_slot":"24/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc6e"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Austin Gonzalez","fees":"£80.82","available_slot":"05/03/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc6f"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Sarah Evans","fees":"£36.76","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc70"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Luis Bean","fees":"£71.07","available_slot":"06/04/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc71"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Maxwell Montgomery","fees":"£76.2","available_slot":"25/04/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc72"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Lawrence Johnson","fees":"£71.24","available_slot":"13/02/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc73"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Arthur Valdez","fees":"£63.1","available_slot":"18/01/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc74"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Evan Ferguson","fees":"£61.3","available_slot":"13/03/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc75"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Carla Fischer","fees":"£24.9","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc76"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"John Bradshaw","fees":"£55.85","available_slot":"13/06/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc77"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Emily Lopez","fees":"£41.42","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc78"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Nicholas Griffin","fees":"£95.93","available_slot":"21/01/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc79"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Sean Cruz","fees":"£55.73","available_slot":"11/03/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc7a"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Elizabeth Knight","fees":"£12.05","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc7b"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Margaret Thompson","fees":"£55.06","available_slot":"25/06/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc7c"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Timothy Sharp","fees":"£95.43","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc7d"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Erica Parks","fees":"£60.07","available_slot":"15/03/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc7e"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Johnny Lara","fees":"£49.39","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc7f"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Melody Berry","fees":"£79.08","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc80"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Joseph Rich","fees":"£77.6","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc81"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Dustin Marshall","fees":"£63.66","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc82"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Jennifer Fisher","fees":"£15.92","available_slot":"16/05/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc83"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Sharon Brooks","fees":"£48.32","available_slot":"25/04/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc84"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Amy Cox","fees":"£97.6","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc85"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Jonathan Peters","fees":"£47.25","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc86"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"John Hernandez","fees":"£81.69","available_slot":"24/03/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc87"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Brian Schwartz","fees":"£30.14","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc88"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Erik Marshall","fees":"£82.36","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc89"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Julian Wells","fees":"£82.55","available_slot":"28/03/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc8a"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Emma Perry","fees":"£57.55","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc8b"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Jacqueline Maxwell","fees":"£76.84","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc8c"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Kathleen Sanders","fees":"£24.47","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc8d"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Kyle Thompson","fees":"£51.02","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc8e"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Amanda Sparks","fees":"£85.52","available_slot":"03/03/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc8f"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Joseph Sims","fees":"£68.06","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc90"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Evan Hensley","fees":"£34.87","available_slot":"28/02/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc91"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Kayla Hernandez","fees":"£87.82","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc92"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Lori Mckinney","fees":"£73.46","available_slot":"21/02/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc93"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Michael Lee","fees":"£10.65","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc94"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Sarah White","fees":"£54.33","available_slot":"26/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc95"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Michael Simpson","fees":"£49.42","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc96"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Beth Johnson","fees":"£90.71","available_slot":"15/02/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc97"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Joseph Trujillo","fees":"£59.86","available_slot":"19/03/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc98"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Caitlin Morgan","fees":"£70.3","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc99"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Valerie Perry","fees":"£94.27","available_slot":"07/01/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc9a"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Nicole White","fees":"£61.19","available_slot":"18/04/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc9b"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"April Carter","fees":"£19.6","available_slot":"01/03/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc9c"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Sabrina Mcgee","fees":"£27.11","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc9d"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Brian Smith","fees":"£98.93","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc9e"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Megan Moore","fees":"£81.26","available_slot":"14/01/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dc9f"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Richard Bruce","fees":"£39.64","available_slot":"11/06/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dca0"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Jennifer Woods","fees":"£38.78","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dca1"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Dylan Bolton","fees":"£36.12","available_slot":"02/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dca2"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Katherine Shea","fees":"£32.28","available_slot":"19/05/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dca3"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Brett Brown","fees":"£28.05","available_slot":"12/01/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dca4"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Stacy Taylor","fees":"£75.04","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dca5"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Melanie Woods","fees":"£87.24","available_slot":"27/05/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dca6"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Jay Fowler","fees":"£64.39","available_slot":"17/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dca7"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Eric Warren","fees":"£65.85","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dca8"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Jay Middleton","fees":"£32.89","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dca9"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Jeanette Perez","fees":"£11.43","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dcaa"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Joseph Lyons","fees":"£23.1","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dcab"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Pamela Williamson","fees":"£44.76","available_slot":"26/05/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dcac"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Benjamin Silva","fees":"£55.57","available_slot":"13/04/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dcad"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Michael Jackson","fees":"£47.9","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dcae"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Barbara Holt","fees":"£62.08","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dcaf"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Erik Chang","fees":"£21.52","available_slot":"02/01/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dcb0"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Elizabeth Robertson","fees":"£17.38","available_slot":"03/03/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dcb1"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Kathy Bryant","fees":"£40.93","available_slot":"08/05/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dcb2"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Bradley Pierce","fees":"£25.64","available_slot":"08/06/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dcb3"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Ashley Harrington","fees":"£60.82","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dcb4"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Mary Willis","fees":"£14.92","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dcb5"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Andrew Baldwin","fees":"£55.55","available_slot":"26/01/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dcb6"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Shirley Young","fees":"£66.6","available_slot":"03/02/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dcb7"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Tiffany Krause","fees":"£17.85","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dcb8"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Maurice Ball","fees":"£13.41","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dcb9"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Jasmine Knapp","fees":"£41.01","available_slot":"09/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dcba"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Teresa James","fees":"£22.46","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dcbb"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Chelsea Griffin","fees":"£50.27","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dcbc"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Carol Robertson","fees":"£61.88","available_slot":"01/05/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dcbd"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Stephen Turner","fees":"£30.93","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dcbe"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Micheal Hall","fees":"£24.44","available_slot":"21/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dcbf"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Erica Rice","fees":"£79.74","available_slot":"16/03/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dcc0"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Matthew Gonzalez","fees":"£58.61","available_slot":"18/01/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dcc1"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Adam Hall","fees":"£10.6","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dcc2"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Miranda Owen","fees":"£83.18","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dcc3"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Susan Simmons","fees":"£25.87","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dcc4"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Joyce Murphy","fees":"£20.59","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dcc5"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"David Schultz","fees":"£76.33","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dcc6"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Judy Williams","fees":"£73.6","available_slot":"27/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dcc7"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Edward Dunlap","fees":"£63.89","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dcc8"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Michael Martinez","fees":"£63.05","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dcc9"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Stephen Johnson","fees":"£78.46","available_slot":"25/03/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dcca"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Tracy Gonzalez","fees":"£32.58","available_slot":"20/04/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dccb"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Jeffrey Yang","fees":"£58.66","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dccc"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Elizabeth Reeves","fees":"£75.74","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dccd"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Henry Shields","fees":"£93.73","available_slot":"19/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dcce"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Karina Weaver","fees":"£50.94","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dccf"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Scott Parker","fees":"£59.67","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dcd0"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Jennifer Weber","fees":"£44.49","available_slot":"20/01/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dcd1"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Frank White","fees":"£54.87","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dcd2"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Patricia Scott","fees":"£38.6","available_slot":"25/03/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dcd3"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"William Cole","fees":"£81.29","available_slot":"13/03/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dcd4"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Curtis Jones","fees":"£28.16","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dcd5"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Christine Wallace","fees":"£20.89","available_slot":"14/04/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dcd6"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Virginia Cohen","fees":"£93.39","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dcd7"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Douglas Braun","fees":"£81.57","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dcd8"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Justin Wells","fees":"£65.56","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dcd9"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Erin Ferguson","fees":"£17.54","available_slot":"05/03/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dcda"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Luke Jefferson","fees":"£39.06","available_slot":"05/03/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dcdb"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Abigail Roberson","fees":"£33.15","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dcdc"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Tina Miller","fees":"£47.15","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dcdd"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Christian Holland","fees":"£67.07","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dcde"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"David Bowman","fees":"£27.65","available_slot":"26/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dcdf"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Lisa Miller","fees":"£20.9","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dce0"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Nathan Wilkerson","fees":"£63.79","available_slot":"16/02/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dce1"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Katie Mclean","fees":"£46.48","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dce2"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Jasmine Wong","fees":"£28.02","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dce3"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Nicole Price","fees":"£75.3","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dce4"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Brandon Gonzalez","fees":"£35.03","available_slot":"26/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dce5"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Isabel Gillespie","fees":"£51.02","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dce6"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Andrew Russell","fees":"£66.12","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dce7"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Tanya Powers","fees":"£60.87","available_slot":"05/01/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dce8"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Stephanie Booth","fees":"£26.87","available_slot":"31/07/2024"}
+{"_id":{"$oid":"65c3e6e53d96a7269f66dce9"},"level":"Advanced","session_type":"one to one","status":"Not Booked","name":"Mike Garcia","fees":"£45.03","available_slot":"05/03/2024"}

@@ -1,0 +1,26 @@
+ * Serving Flask app 'run'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5020
+ * Running on http://192.168.0.13:5020
+[33mPress CTRL+C to quit[0m
+ * Restarting with watchdog (fsevents)
+ * Debugger is active!
+ * Debugger PIN: 226-845-764
+Traceback (most recent call last):
+  File "/Users/rmn7591/opt/anaconda3/lib/python3.9/runpy.py", line 197, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/Users/rmn7591/opt/anaconda3/lib/python3.9/runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "/Users/rmn7591/Documents/Repositories/100-daysOf-Python_challenge/wellness-corner/assistant/database_handler/run.py", line 55, in <module>
+    app.run(debug=True,host=constants.DB_APP_HOST, port=constants.DB_APP_PORT)
+  File "/Users/rmn7591/Documents/Repositories/100-daysOf-Python_challenge/wellness-corner/.venv/lib/python3.9/site-packages/flask/app.py", line 889, in run
+    run_simple(t.cast(str, host), port, self, **options)
+  File "/Users/rmn7591/Documents/Repositories/100-daysOf-Python_challenge/wellness-corner/.venv/lib/python3.9/site-packages/werkzeug/serving.py", line 1099, in run_simple
+    run_with_reloader(
+  File "/Users/rmn7591/Documents/Repositories/100-daysOf-Python_challenge/wellness-corner/.venv/lib/python3.9/site-packages/werkzeug/_reloader.py", line 446, in run_with_reloader
+    ensure_echo_on()
+  File "/Users/rmn7591/Documents/Repositories/100-daysOf-Python_challenge/wellness-corner/.venv/lib/python3.9/site-packages/werkzeug/_reloader.py", line 426, in ensure_echo_on
+    termios.tcsetattr(sys.stdin, termios.TCSANOW, attributes)
+termios.error: (4, 'Interrupted system call')

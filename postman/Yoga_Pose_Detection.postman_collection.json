@@ -1,0 +1,123 @@
+{
+	"info": {
+		"_postman_id": "58b4a343-e575-47a7-ad8c-62783cbe754f",
+		"name": "Yoga_Pose_Detection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "26362449"
+	},
+	"item": [
+		{
+			"name": "datasummary",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://34.172.2.68:5060/datasummary",
+					"protocol": "http",
+					"host": [
+						"34",
+						"172",
+						"2",
+						"68"
+					],
+					"port": "5060",
+					"path": [
+						"datasummary"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "get_model_list",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://34.172.2.68:5060/get_model_list",
+					"protocol": "http",
+					"host": [
+						"34",
+						"172",
+						"2",
+						"68"
+					],
+					"port": "5060",
+					"path": [
+						"get_model_list"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "evaluate_model",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"model_name\": \"\"// give any one model_name from the output of \"get_model_list\" API\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://127.0.0.1:5001/evaluate_model",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5001",
+					"path": [
+						"evaluate_model"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "predict",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "image",
+							"type": "file",
+							"src": "/C:/D/Personal/Project/image_dataset/Yoga/Input/Downward-Dog-Pose/00000022.jpg"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://34.172.2.68:5060/predict?model_name=image_classifier_model_20240121_102927.h5",
+					"protocol": "http",
+					"host": [
+						"34",
+						"172",
+						"2",
+						"68"
+					],
+					"port": "5060",
+					"path": [
+						"predict"
+					],
+					"query": [
+						{
+							"key": "model_name",
+							"value": "image_classifier_model_20240121_102927.h5"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

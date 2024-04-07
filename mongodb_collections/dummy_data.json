@@ -1,0 +1,1602 @@
+[
+    {
+      "name": "Erik Chang",
+      "available_slot": 1704196800000,
+      "fees": "\u00a321.52",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Mercedes Jones",
+      "available_slot": 1704225600000,
+      "fees": "\u00a393.25",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Tanya Powers",
+      "available_slot": 1704466800000,
+      "fees": "\u00a360.87",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Martin Henson",
+      "available_slot": 1704470400000,
+      "fees": "\u00a347.05",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Valerie Perry",
+      "available_slot": 1704625200000,
+      "fees": "\u00a394.27",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Brett Brown",
+      "available_slot": 1705064400000,
+      "fees": "\u00a328.05",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Ann Wyatt",
+      "available_slot": 1705078800000,
+      "fees": "\u00a331.67",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Megan Moore",
+      "available_slot": 1705237200000,
+      "fees": "\u00a381.26",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Christy Martinez",
+      "available_slot": 1705482000000,
+      "fees": "\u00a330.04",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Matthew Gonzalez",
+      "available_slot": 1705561200000,
+      "fees": "\u00a358.61",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Arthur Valdez",
+      "available_slot": 1705597200000,
+      "fees": "\u00a363.1",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Jennifer Weber",
+      "available_slot": 1705734000000,
+      "fees": "\u00a344.49",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Brandon Wright",
+      "available_slot": 1705759200000,
+      "fees": "\u00a352.83",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Nicholas Griffin",
+      "available_slot": 1705820400000,
+      "fees": "\u00a395.93",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Andrew Baldwin",
+      "available_slot": 1706252400000,
+      "fees": "\u00a355.55",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Scott Lewis",
+      "available_slot": 1706360400000,
+      "fees": "\u00a358.08",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Cassandra Reid",
+      "available_slot": 1706806800000,
+      "fees": "\u00a312.99",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Shirley Young",
+      "available_slot": 1706961600000,
+      "fees": "\u00a366.6",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Michelle Buchanan",
+      "available_slot": 1707739200000,
+      "fees": "\u00a313.82",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Lawrence Johnson",
+      "available_slot": 1707840000000,
+      "fees": "\u00a371.24",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Beth Johnson",
+      "available_slot": 1708016400000,
+      "fees": "\u00a390.71",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Nathan Wilkerson",
+      "available_slot": 1708074000000,
+      "fees": "\u00a363.79",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Lori Mckinney",
+      "available_slot": 1708531200000,
+      "fees": "\u00a373.46",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Evan Hensley",
+      "available_slot": 1709118000000,
+      "fees": "\u00a334.87",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "April Carter",
+      "available_slot": 1709305200000,
+      "fees": "\u00a319.6",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Jennifer Johnson",
+      "available_slot": 1709373600000,
+      "fees": "\u00a383.06",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Perry Jimenez",
+      "available_slot": 1709388000000,
+      "fees": "\u00a347.2",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Elizabeth Robertson",
+      "available_slot": 1709474400000,
+      "fees": "\u00a317.38",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Amanda Sparks",
+      "available_slot": 1709488800000,
+      "fees": "\u00a385.52",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Luke Jefferson",
+      "available_slot": 1709629200000,
+      "fees": "\u00a339.06",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Mike Garcia",
+      "available_slot": 1709636400000,
+      "fees": "\u00a345.03",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Austin Gonzalez",
+      "available_slot": 1709658000000,
+      "fees": "\u00a380.82",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Erin Ferguson",
+      "available_slot": 1709665200000,
+      "fees": "\u00a317.54",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Kyle Shepard",
+      "available_slot": 1709809200000,
+      "fees": "\u00a330.89",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Sean Garcia",
+      "available_slot": 1709917200000,
+      "fees": "\u00a360.95",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Brian Brown",
+      "available_slot": 1709917200000,
+      "fees": "\u00a388.54",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Megan Gray",
+      "available_slot": 1710057600000,
+      "fees": "\u00a364.05",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Sean Cruz",
+      "available_slot": 1710144000000,
+      "fees": "\u00a355.73",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Evan Ferguson",
+      "available_slot": 1710320400000,
+      "fees": "\u00a361.3",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "William Cole",
+      "available_slot": 1710338400000,
+      "fees": "\u00a381.29",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Matthew Powell",
+      "available_slot": 1710421200000,
+      "fees": "\u00a365.24",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Erica Parks",
+      "available_slot": 1710486000000,
+      "fees": "\u00a360.07",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Craig King",
+      "available_slot": 1710522000000,
+      "fees": "\u00a323.98",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Erica Rice",
+      "available_slot": 1710615600000,
+      "fees": "\u00a379.74",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Joseph Trujillo",
+      "available_slot": 1710878400000,
+      "fees": "\u00a359.86",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Chad Williams",
+      "available_slot": 1711130400000,
+      "fees": "\u00a311.71",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "John Hernandez",
+      "available_slot": 1711288800000,
+      "fees": "\u00a381.69",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Stephen Johnson",
+      "available_slot": 1711353600000,
+      "fees": "\u00a378.46",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Patricia Scott",
+      "available_slot": 1711364400000,
+      "fees": "\u00a338.6",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Richard Keller",
+      "available_slot": 1711551600000,
+      "fees": "\u00a357.83",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Julian Wells",
+      "available_slot": 1711641600000,
+      "fees": "\u00a382.55",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Karina Vance",
+      "available_slot": 1712239200000,
+      "fees": "\u00a392.91",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Kayla Price",
+      "available_slot": 1712419200000,
+      "fees": "\u00a376.15",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Luis Bean",
+      "available_slot": 1712430000000,
+      "fees": "\u00a371.07",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Joyce Oconnor",
+      "available_slot": 1712480400000,
+      "fees": "\u00a327.02",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Kenneth Rangel",
+      "available_slot": 1712559600000,
+      "fees": "\u00a316.54",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Bryce Todd",
+      "available_slot": 1712606400000,
+      "fees": "\u00a351.33",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Carolyn Walker",
+      "available_slot": 1712930400000,
+      "fees": "\u00a391.85",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Benjamin Silva",
+      "available_slot": 1712995200000,
+      "fees": "\u00a355.57",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Thomas Martinez",
+      "available_slot": 1713020400000,
+      "fees": "\u00a342.93",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Christine Wallace",
+      "available_slot": 1713081600000,
+      "fees": "\u00a320.89",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Samuel Smith",
+      "available_slot": 1713106800000,
+      "fees": "\u00a386.98",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Autumn Cardenas",
+      "available_slot": 1713286800000,
+      "fees": "\u00a384.84",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Nicole White",
+      "available_slot": 1713463200000,
+      "fees": "\u00a361.19",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Tracy Gonzalez",
+      "available_slot": 1713610800000,
+      "fees": "\u00a332.58",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Maxwell Montgomery",
+      "available_slot": 1714060800000,
+      "fees": "\u00a376.2",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Sharon Brooks",
+      "available_slot": 1714060800000,
+      "fees": "\u00a348.32",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Carol Robertson",
+      "available_slot": 1714590000000,
+      "fees": "\u00a361.88",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Joan Roberts",
+      "available_slot": 1715018400000,
+      "fees": "\u00a390.66",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Kathy Bryant",
+      "available_slot": 1715194800000,
+      "fees": "\u00a340.93",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Kristen Jones",
+      "available_slot": 1715540400000,
+      "fees": "\u00a325.47",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Jennifer Fisher",
+      "available_slot": 1715875200000,
+      "fees": "\u00a315.92",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Katherine Shea",
+      "available_slot": 1716130800000,
+      "fees": "\u00a332.28",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Rachel Carlson",
+      "available_slot": 1716624000000,
+      "fees": "\u00a347.25",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Pamela Williamson",
+      "available_slot": 1716710400000,
+      "fees": "\u00a344.76",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Barry Perez",
+      "available_slot": 1716818400000,
+      "fees": "\u00a348.66",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Melanie Woods",
+      "available_slot": 1716818400000,
+      "fees": "\u00a387.24",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Bradley Pierce",
+      "available_slot": 1717848000000,
+      "fees": "\u00a325.64",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Victoria Gibson",
+      "available_slot": 1717945200000,
+      "fees": "\u00a313.34",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Richard Bruce",
+      "available_slot": 1718136000000,
+      "fees": "\u00a339.64",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "John Bradshaw",
+      "available_slot": 1718298000000,
+      "fees": "\u00a355.85",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Joe Chandler",
+      "available_slot": 1718391600000,
+      "fees": "\u00a399.34",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "James Reid",
+      "available_slot": 1718956800000,
+      "fees": "\u00a395.9",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Stacey Holland",
+      "available_slot": 1719331200000,
+      "fees": "\u00a316.91",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Margaret Thompson",
+      "available_slot": 1719338400000,
+      "fees": "\u00a355.06",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Brenda Aguirre",
+      "available_slot": 1719579600000,
+      "fees": "\u00a366.84",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Robert Newman",
+      "available_slot": 1719594000000,
+      "fees": "\u00a332.59",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Jessica Allen",
+      "available_slot": 1719601200000,
+      "fees": "\u00a373.17",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Kyle Cole",
+      "available_slot": 1719828000000,
+      "fees": "\u00a316.07",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Daniel Mccormick",
+      "available_slot": 1719946800000,
+      "fees": "\u00a399.84",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Dylan Bolton",
+      "available_slot": 1719946800000,
+      "fees": "\u00a336.12",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Kimberly Parker",
+      "available_slot": 1720375200000,
+      "fees": "\u00a374.69",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "John Hawkins",
+      "available_slot": 1720429200000,
+      "fees": "\u00a394.06",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Kevin Dixon",
+      "available_slot": 1720544400000,
+      "fees": "\u00a331.01",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Jasmine Knapp",
+      "available_slot": 1720548000000,
+      "fees": "\u00a341.01",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Mary Hendricks",
+      "available_slot": 1720796400000,
+      "fees": "\u00a368.26",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Jay Fowler",
+      "available_slot": 1721246400000,
+      "fees": "\u00a364.39",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Henry Shields",
+      "available_slot": 1721412000000,
+      "fees": "\u00a393.73",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Micheal Hall",
+      "available_slot": 1721584800000,
+      "fees": "\u00a324.44",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Kendra Johnson",
+      "available_slot": 1721718000000,
+      "fees": "\u00a383.29",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Maria Smith",
+      "available_slot": 1721818800000,
+      "fees": "\u00a310.82",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Brandon Gonzalez",
+      "available_slot": 1721991600000,
+      "fees": "\u00a335.03",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "David Bowman",
+      "available_slot": 1722002400000,
+      "fees": "\u00a327.65",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Steve Martin",
+      "available_slot": 1722020400000,
+      "fees": "\u00a377.66",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Sarah White",
+      "available_slot": 1722020400000,
+      "fees": "\u00a354.33",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Judy Williams",
+      "available_slot": 1722088800000,
+      "fees": "\u00a373.6",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Timothy Johnson",
+      "available_slot": 1722409200000,
+      "fees": "\u00a389.71",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Troy Williams",
+      "available_slot": 1722409200000,
+      "fees": "\u00a329.41",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "David Nguyen",
+      "available_slot": 1722409200000,
+      "fees": "\u00a334.53",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Joseph Lyons",
+      "available_slot": 1722409200000,
+      "fees": "\u00a323.1",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Katie Mclean",
+      "available_slot": 1722409200000,
+      "fees": "\u00a346.48",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Jasmine Wong",
+      "available_slot": 1722409200000,
+      "fees": "\u00a328.02",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "James Kim",
+      "available_slot": 1722412800000,
+      "fees": "\u00a328.2",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Dustin Marshall",
+      "available_slot": 1722412800000,
+      "fees": "\u00a363.66",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Kayla Hernandez",
+      "available_slot": 1722412800000,
+      "fees": "\u00a387.82",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Barbara Holt",
+      "available_slot": 1722412800000,
+      "fees": "\u00a362.08",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Hannah Durham",
+      "available_slot": 1722416400000,
+      "fees": "\u00a313.65",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Maria Scott",
+      "available_slot": 1722416400000,
+      "fees": "\u00a364.43",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Amy Cox",
+      "available_slot": 1722416400000,
+      "fees": "\u00a397.6",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Emma Perry",
+      "available_slot": 1722416400000,
+      "fees": "\u00a357.55",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Brian Smith",
+      "available_slot": 1722416400000,
+      "fees": "\u00a398.93",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Jeanette Perez",
+      "available_slot": 1722416400000,
+      "fees": "\u00a311.43",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Justin Wells",
+      "available_slot": 1722416400000,
+      "fees": "\u00a365.56",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Heidi Ray",
+      "available_slot": 1722420000000,
+      "fees": "\u00a382.02",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Stephanie Douglas",
+      "available_slot": 1722420000000,
+      "fees": "\u00a348.01",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Jonathan Peters",
+      "available_slot": 1722420000000,
+      "fees": "\u00a347.25",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Caitlin Morgan",
+      "available_slot": 1722420000000,
+      "fees": "\u00a370.3",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Stephanie Booth",
+      "available_slot": 1722420000000,
+      "fees": "\u00a326.87",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Terri Peters",
+      "available_slot": 1722423600000,
+      "fees": "\u00a357.01",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Joseph Rich",
+      "available_slot": 1722423600000,
+      "fees": "\u00a377.6",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Jacqueline Maxwell",
+      "available_slot": 1722423600000,
+      "fees": "\u00a376.84",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Sabrina Mcgee",
+      "available_slot": 1722423600000,
+      "fees": "\u00a327.11",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Stacy Taylor",
+      "available_slot": 1722423600000,
+      "fees": "\u00a375.04",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Eric Warren",
+      "available_slot": 1722423600000,
+      "fees": "\u00a365.85",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Adam Hall",
+      "available_slot": 1722423600000,
+      "fees": "\u00a310.6",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Sean Casey",
+      "available_slot": 1722427200000,
+      "fees": "\u00a337.71",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Amanda Smith",
+      "available_slot": 1722427200000,
+      "fees": "\u00a375.64",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Matthew Hayes",
+      "available_slot": 1722427200000,
+      "fees": "\u00a322.01",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Emily Lopez",
+      "available_slot": 1722427200000,
+      "fees": "\u00a341.42",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Michael Simpson",
+      "available_slot": 1722427200000,
+      "fees": "\u00a349.42",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Joseph Sims",
+      "available_slot": 1722427200000,
+      "fees": "\u00a368.06",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Teresa James",
+      "available_slot": 1722427200000,
+      "fees": "\u00a322.46",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "David Schultz",
+      "available_slot": 1722427200000,
+      "fees": "\u00a376.33",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Michael Martinez",
+      "available_slot": 1722427200000,
+      "fees": "\u00a363.05",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Lisa Miller",
+      "available_slot": 1722427200000,
+      "fees": "\u00a320.9",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Kristina Miller",
+      "available_slot": 1722430800000,
+      "fees": "\u00a348.51",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Angel Carpenter",
+      "available_slot": 1722430800000,
+      "fees": "\u00a337.27",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Chelsea Griffin",
+      "available_slot": 1722430800000,
+      "fees": "\u00a350.27",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Isabel Gillespie",
+      "available_slot": 1722430800000,
+      "fees": "\u00a351.02",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Shannon Summers",
+      "available_slot": 1722434400000,
+      "fees": "\u00a330.64",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Brian Schwartz",
+      "available_slot": 1722434400000,
+      "fees": "\u00a330.14",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Erik Marshall",
+      "available_slot": 1722434400000,
+      "fees": "\u00a382.36",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Miranda Owen",
+      "available_slot": 1722434400000,
+      "fees": "\u00a383.18",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Karina Weaver",
+      "available_slot": 1722434400000,
+      "fees": "\u00a350.94",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Mariah Cooke",
+      "available_slot": 1722438000000,
+      "fees": "\u00a333.48",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Elizabeth Knight",
+      "available_slot": 1722438000000,
+      "fees": "\u00a312.05",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Timothy Sharp",
+      "available_slot": 1722438000000,
+      "fees": "\u00a395.43",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Douglas Braun",
+      "available_slot": 1722438000000,
+      "fees": "\u00a381.57",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Jennifer Woods",
+      "available_slot": 1722438000000,
+      "fees": "\u00a338.78",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Jay Middleton",
+      "available_slot": 1722438000000,
+      "fees": "\u00a332.89",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Michael Jackson",
+      "available_slot": 1722438000000,
+      "fees": "\u00a347.9",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Joyce Murphy",
+      "available_slot": 1722438000000,
+      "fees": "\u00a320.59",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Nicole Price",
+      "available_slot": 1722438000000,
+      "fees": "\u00a375.3",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Anna Lindsey",
+      "available_slot": 1722441600000,
+      "fees": "\u00a382.01",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Renee Wiggins",
+      "available_slot": 1722441600000,
+      "fees": "\u00a331.69",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Sarah Evans",
+      "available_slot": 1722441600000,
+      "fees": "\u00a336.76",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Carla Fischer",
+      "available_slot": 1722441600000,
+      "fees": "\u00a324.9",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Johnny Lara",
+      "available_slot": 1722441600000,
+      "fees": "\u00a349.39",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Mary Willis",
+      "available_slot": 1722441600000,
+      "fees": "\u00a314.92",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Stephen Turner",
+      "available_slot": 1722441600000,
+      "fees": "\u00a330.93",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Virginia Cohen",
+      "available_slot": 1722441600000,
+      "fees": "\u00a393.39",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Tina Miller",
+      "available_slot": 1722441600000,
+      "fees": "\u00a347.15",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Veronica Brown",
+      "available_slot": 1722445200000,
+      "fees": "\u00a396.57",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Frank White",
+      "available_slot": 1722445200000,
+      "fees": "\u00a354.87",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Justin Wells",
+      "available_slot": 1722448800000,
+      "fees": "\u00a362.5",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Julie Avery",
+      "available_slot": 1722448800000,
+      "fees": "\u00a347.38",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Donna Arnold",
+      "available_slot": 1722448800000,
+      "fees": "\u00a338.07",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Tiffany Krause",
+      "available_slot": 1722448800000,
+      "fees": "\u00a317.85",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Andrew Russell",
+      "available_slot": 1722448800000,
+      "fees": "\u00a366.12",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Christian Holland",
+      "available_slot": 1722448800000,
+      "fees": "\u00a367.07",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "William Ayers",
+      "available_slot": 1722452400000,
+      "fees": "\u00a339.82",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Michael Miller",
+      "available_slot": 1722452400000,
+      "fees": "\u00a372.81",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Patricia Berg",
+      "available_slot": 1722452400000,
+      "fees": "\u00a370.24",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Kyle Thompson",
+      "available_slot": 1722452400000,
+      "fees": "\u00a351.02",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Michael Lee",
+      "available_slot": 1722452400000,
+      "fees": "\u00a310.65",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Ashley Harrington",
+      "available_slot": 1722452400000,
+      "fees": "\u00a360.82",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Maurice Ball",
+      "available_slot": 1722452400000,
+      "fees": "\u00a313.41",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Jeffrey Yang",
+      "available_slot": 1722452400000,
+      "fees": "\u00a358.66",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Elizabeth Reeves",
+      "available_slot": 1722452400000,
+      "fees": "\u00a375.74",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Edward Dunlap",
+      "available_slot": 1722452400000,
+      "fees": "\u00a363.89",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Scott Parker",
+      "available_slot": 1722452400000,
+      "fees": "\u00a359.67",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Michelle Perez",
+      "available_slot": 1722456000000,
+      "fees": "\u00a372.12",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Andrew Powell",
+      "available_slot": 1722456000000,
+      "fees": "\u00a380.19",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Scott Williams",
+      "available_slot": 1722456000000,
+      "fees": "\u00a370.15",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Elizabeth Molina",
+      "available_slot": 1722456000000,
+      "fees": "\u00a388.8",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Melody Berry",
+      "available_slot": 1722456000000,
+      "fees": "\u00a379.08",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Kathleen Sanders",
+      "available_slot": 1722456000000,
+      "fees": "\u00a324.47",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Susan Simmons",
+      "available_slot": 1722456000000,
+      "fees": "\u00a325.87",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Advance"
+    },
+    {
+      "name": "Curtis Jones",
+      "available_slot": 1722456000000,
+      "fees": "\u00a328.16",
+      "session_type": "One:One",
+      "status": "Not Booked",
+      "level": "Beginner"
+    },
+    {
+      "name": "Abigail Roberson",
+      "available_slot": 1722456000000,
+      "fees": "\u00a333.15",
+      "session_type": "Group",
+      "status": "Not Booked",
+      "level": "Intermediate"
+    }
+  ]

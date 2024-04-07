@@ -1,0 +1,102 @@
+2024-02-09 15:41:05,198 : INFO : assistant.controllers.helpers : File: 'assistant/pose_info/pose_prompt.yaml' is loaded
+2024-02-09 15:41:06,464 : INFO : assistant.controllers.helpers : File: 'assistant/pose_info/pose_prompt.yaml' is loaded
+2024-02-09 15:42:37,499 : ERROR : assistant.controllers.helpers : Internal server exception occured: 'ConstantNamespace' object has no attribute 'GPT_MODEL_LIST'
+Traceback (most recent call last):
+  File "/home/letsbenobody/assistant/pose_info/run.py", line 27, in pose_info
+    llm = OpenAIKit()
+  File "/home/letsbenobody/assistant/pose_info/utils/openaikit.py", line 23, in __init__
+    self.model_list = constants.GPT_MODEL_LIST
+AttributeError: 'ConstantNamespace' object has no attribute 'GPT_MODEL_LIST'
+2024-02-09 15:43:20,855 : ERROR : assistant.controllers.helpers : Internal server exception occured: 'ConstantNamespace' object has no attribute 'GPT_MODEL_LIST'
+Traceback (most recent call last):
+  File "/home/letsbenobody/assistant/pose_info/run.py", line 27, in pose_info
+    llm = OpenAIKit()
+  File "/home/letsbenobody/assistant/pose_info/utils/openaikit.py", line 23, in __init__
+    #    self.model_list = constants.GPT_MODEL_LIST
+AttributeError: 'ConstantNamespace' object has no attribute 'GPT_MODEL_LIST'
+2024-02-09 15:43:29,041 : INFO : assistant.controllers.helpers : File: 'assistant/pose_info/pose_prompt.yaml' is loaded
+2024-02-09 15:43:30,328 : INFO : assistant.controllers.helpers : File: 'assistant/pose_info/pose_prompt.yaml' is loaded
+2024-02-09 15:46:51,219 : INFO : assistant.controllers.helpers : File: 'assistant/pose_info/pose_prompt.yaml' is loaded
+2024-02-09 15:46:52,603 : INFO : assistant.controllers.helpers : File: 'assistant/pose_info/pose_prompt.yaml' is loaded
+2024-02-10 00:27:30,277 : ERROR : assistant.controllers.helpers : Internal server exception occured: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+Traceback (most recent call last):
+  File "/home/letsbenobody/assistant/pose_info/run.py", line 24, in pose_info
+    data = request.get_json()
+  File "/home/letsbenobody/.venv/lib/python3.9/site-packages/werkzeug/wrappers/request.py", line 604, in get_json
+    return self.on_json_loading_failed(None)
+  File "/home/letsbenobody/.venv/lib/python3.9/site-packages/flask/wrappers.py", line 130, in on_json_loading_failed
+    return super().on_json_loading_failed(e)
+  File "/home/letsbenobody/.venv/lib/python3.9/site-packages/werkzeug/wrappers/request.py", line 647, in on_json_loading_failed
+    raise UnsupportedMediaType(
+werkzeug.exceptions.UnsupportedMediaType: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2024-02-10 00:28:22,163 : ERROR : assistant.controllers.helpers : Internal server exception occured: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+Traceback (most recent call last):
+  File "/home/letsbenobody/assistant/pose_info/run.py", line 24, in pose_info
+    data = request.get_json()
+  File "/home/letsbenobody/.venv/lib/python3.9/site-packages/werkzeug/wrappers/request.py", line 604, in get_json
+    return self.on_json_loading_failed(None)
+  File "/home/letsbenobody/.venv/lib/python3.9/site-packages/flask/wrappers.py", line 130, in on_json_loading_failed
+    return super().on_json_loading_failed(e)
+  File "/home/letsbenobody/.venv/lib/python3.9/site-packages/werkzeug/wrappers/request.py", line 647, in on_json_loading_failed
+    raise UnsupportedMediaType(
+werkzeug.exceptions.UnsupportedMediaType: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2024-02-10 00:57:34,754 : ERROR : assistant.controllers.helpers : Internal server exception occured: RetryError[<Future at 0x7fae49d0fa30 state=finished raised BadRequestError>]
+Traceback (most recent call last):
+  File "/home/letsbenobody/.venv/lib/python3.9/site-packages/tenacity/__init__.py", line 382, in __call__
+    result = fn(*args, **kwargs)
+  File "/home/letsbenobody/assistant/pose_info/utils/openaikit.py", line 36, in get_chat_completion
+    result = self.client.chat.completions.create(
+  File "/home/letsbenobody/.venv/lib/python3.9/site-packages/openai/_utils/_utils.py", line 299, in wrapper
+    return func(*args, **kwargs)
+  File "/home/letsbenobody/.venv/lib/python3.9/site-packages/openai/resources/chat/completions.py", line 598, in create
+    return self._post(
+  File "/home/letsbenobody/.venv/lib/python3.9/site-packages/openai/_base_client.py", line 1063, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+  File "/home/letsbenobody/.venv/lib/python3.9/site-packages/openai/_base_client.py", line 842, in request
+    return self._request(
+  File "/home/letsbenobody/.venv/lib/python3.9/site-packages/openai/_base_client.py", line 885, in _request
+    raise self._make_status_error_from_response(err.response) from None
+openai.BadRequestError: Error code: 400 - {'error': {'message': "Invalid value for 'content': expected a string, got null.", 'type': 'invalid_request_error', 'param': 'messages.[1].content', 'code': None}}
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/letsbenobody/assistant/pose_info/run.py", line 28, in pose_info
+    res = llm.get_chat_completion(messages=messages)
+  File "/home/letsbenobody/.venv/lib/python3.9/site-packages/tenacity/__init__.py", line 289, in wrapped_f
+    return self(f, *args, **kw)
+  File "/home/letsbenobody/.venv/lib/python3.9/site-packages/tenacity/__init__.py", line 379, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "/home/letsbenobody/.venv/lib/python3.9/site-packages/tenacity/__init__.py", line 326, in iter
+    raise retry_exc from fut.exception()
+tenacity.RetryError: RetryError[<Future at 0x7fae49d0fa30 state=finished raised BadRequestError>]
+2024-02-10 01:01:05,258 : ERROR : assistant.controllers.helpers : Internal server exception occured: RetryError[<Future at 0x7fae49cae100 state=finished raised BadRequestError>]
+Traceback (most recent call last):
+  File "/home/letsbenobody/.venv/lib/python3.9/site-packages/tenacity/__init__.py", line 382, in __call__
+    result = fn(*args, **kwargs)
+  File "/home/letsbenobody/assistant/pose_info/utils/openaikit.py", line 36, in get_chat_completion
+    result = self.client.chat.completions.create(
+  File "/home/letsbenobody/.venv/lib/python3.9/site-packages/openai/_utils/_utils.py", line 299, in wrapper
+    return func(*args, **kwargs)
+  File "/home/letsbenobody/.venv/lib/python3.9/site-packages/openai/resources/chat/completions.py", line 598, in create
+    return self._post(
+  File "/home/letsbenobody/.venv/lib/python3.9/site-packages/openai/_base_client.py", line 1063, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+  File "/home/letsbenobody/.venv/lib/python3.9/site-packages/openai/_base_client.py", line 842, in request
+    return self._request(
+  File "/home/letsbenobody/.venv/lib/python3.9/site-packages/openai/_base_client.py", line 885, in _request
+    raise self._make_status_error_from_response(err.response) from None
+openai.BadRequestError: Error code: 400 - {'error': {'message': "Invalid value for 'content': expected a string, got null.", 'type': 'invalid_request_error', 'param': 'messages.[1].content', 'code': None}}
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/letsbenobody/assistant/pose_info/run.py", line 28, in pose_info
+    res = llm.get_chat_completion(messages=messages)
+  File "/home/letsbenobody/.venv/lib/python3.9/site-packages/tenacity/__init__.py", line 289, in wrapped_f
+    return self(f, *args, **kw)
+  File "/home/letsbenobody/.venv/lib/python3.9/site-packages/tenacity/__init__.py", line 379, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "/home/letsbenobody/.venv/lib/python3.9/site-packages/tenacity/__init__.py", line 326, in iter
+    raise retry_exc from fut.exception()
+tenacity.RetryError: RetryError[<Future at 0x7fae49cae100 state=finished raised BadRequestError>]

@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "lancaster-stemmer": "^2.1.0"
+  }
+}

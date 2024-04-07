@@ -1,0 +1,2200 @@
+[{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39ef0"
+  },
+  "name": "Erik Chang",
+  "available_slot": 1704196800000,
+  "fees": "£21.52",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39ef1"
+  },
+  "name": "Mercedes Jones",
+  "available_slot": 1704225600000,
+  "fees": "£93.25",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39ef2"
+  },
+  "name": "Tanya Powers",
+  "available_slot": 1704466800000,
+  "fees": "£60.87",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39ef3"
+  },
+  "name": "Martin Henson",
+  "available_slot": 1704470400000,
+  "fees": "£47.05",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39ef4"
+  },
+  "name": "Valerie Perry",
+  "available_slot": 1704625200000,
+  "fees": "£94.27",
+  "session_type": "Group",
+  "status": "Not Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39ef5"
+  },
+  "name": "Brett Brown",
+  "available_slot": 1705064400000,
+  "fees": "£28.05",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39ef6"
+  },
+  "name": "Ann Wyatt",
+  "available_slot": 1705078800000,
+  "fees": "£31.67",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39ef7"
+  },
+  "name": "Megan Moore",
+  "available_slot": 1705237200000,
+  "fees": "£81.26",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39ef8"
+  },
+  "name": "Christy Martinez",
+  "available_slot": 1705482000000,
+  "fees": "£30.04",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39ef9"
+  },
+  "name": "Matthew Gonzalez",
+  "available_slot": 1705561200000,
+  "fees": "£58.61",
+  "session_type": "Group",
+  "status": "Not Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39efa"
+  },
+  "name": "Arthur Valdez",
+  "available_slot": 1705597200000,
+  "fees": "£63.1",
+  "session_type": "One:One",
+  "status": "Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39efb"
+  },
+  "name": "Jennifer Weber",
+  "available_slot": 1705734000000,
+  "fees": "£44.49",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39efc"
+  },
+  "name": "Brandon Wright",
+  "available_slot": 1705759200000,
+  "fees": "£52.83",
+  "session_type": "One:One",
+  "status": "Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39efd"
+  },
+  "name": "Nicholas Griffin",
+  "available_slot": 1705820400000,
+  "fees": "£95.93",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39efe"
+  },
+  "name": "Andrew Baldwin",
+  "available_slot": 1706252400000,
+  "fees": "£55.55",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39eff"
+  },
+  "name": "Scott Lewis",
+  "available_slot": 1706360400000,
+  "fees": "£58.08",
+  "session_type": "Group",
+  "status": "Not Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f00"
+  },
+  "name": "Cassandra Reid",
+  "available_slot": 1706806800000,
+  "fees": "£12.99",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f01"
+  },
+  "name": "Shirley Young",
+  "available_slot": 1706961600000,
+  "fees": "£66.6",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f02"
+  },
+  "name": "Michelle Buchanan",
+  "available_slot": 1707739200000,
+  "fees": "£13.82",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f03"
+  },
+  "name": "Lawrence Johnson",
+  "available_slot": 1707840000000,
+  "fees": "£71.24",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f04"
+  },
+  "name": "Beth Johnson",
+  "available_slot": 1708016400000,
+  "fees": "£90.71",
+  "session_type": "Group",
+  "status": "Not Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f05"
+  },
+  "name": "Nathan Wilkerson",
+  "available_slot": 1708074000000,
+  "fees": "£63.79",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f06"
+  },
+  "name": "Lori Mckinney",
+  "available_slot": 1708531200000,
+  "fees": "£73.46",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f07"
+  },
+  "name": "Evan Hensley",
+  "available_slot": 1709118000000,
+  "fees": "£34.87",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f08"
+  },
+  "name": "April Carter",
+  "available_slot": 1709305200000,
+  "fees": "£19.6",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f09"
+  },
+  "name": "Jennifer Johnson",
+  "available_slot": 1709373600000,
+  "fees": "£83.06",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f0a"
+  },
+  "name": "Perry Jimenez",
+  "available_slot": 1709388000000,
+  "fees": "£47.2",
+  "session_type": "One:One",
+  "status": "Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f0b"
+  },
+  "name": "Elizabeth Robertson",
+  "available_slot": 1709474400000,
+  "fees": "£17.38",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f0c"
+  },
+  "name": "Amanda Sparks",
+  "available_slot": 1709488800000,
+  "fees": "£85.52",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f0d"
+  },
+  "name": "Luke Jefferson",
+  "available_slot": 1709629200000,
+  "fees": "£39.06",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f0e"
+  },
+  "name": "Mike Garcia",
+  "available_slot": 1709636400000,
+  "fees": "£45.03",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f0f"
+  },
+  "name": "Austin Gonzalez",
+  "available_slot": 1709658000000,
+  "fees": "£80.82",
+  "session_type": "Group",
+  "status": "Not Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f10"
+  },
+  "name": "Erin Ferguson",
+  "available_slot": 1709665200000,
+  "fees": "£17.54",
+  "session_type": "One:One",
+  "status": "Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f11"
+  },
+  "name": "Kyle Shepard",
+  "available_slot": 1709809200000,
+  "fees": "£30.89",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f12"
+  },
+  "name": "Sean Garcia",
+  "available_slot": 1709917200000,
+  "fees": "£60.95",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f13"
+  },
+  "name": "Brian Brown",
+  "available_slot": 1709917200000,
+  "fees": "£88.54",
+  "session_type": "One:One",
+  "status": "Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f14"
+  },
+  "name": "Megan Gray",
+  "available_slot": 1710057600000,
+  "fees": "£64.05",
+  "session_type": "Group",
+  "status": "Not Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f15"
+  },
+  "name": "Sean Cruz",
+  "available_slot": 1710144000000,
+  "fees": "£55.73",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f16"
+  },
+  "name": "Evan Ferguson",
+  "available_slot": 1710320400000,
+  "fees": "£61.3",
+  "session_type": "Group",
+  "status": "Not Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f17"
+  },
+  "name": "William Cole",
+  "available_slot": 1710338400000,
+  "fees": "£81.29",
+  "session_type": "Group",
+  "status": "Not Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f18"
+  },
+  "name": "Matthew Powell",
+  "available_slot": 1710421200000,
+  "fees": "£65.24",
+  "session_type": "One:One",
+  "status": "Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f19"
+  },
+  "name": "Erica Parks",
+  "available_slot": 1710486000000,
+  "fees": "£60.07",
+  "session_type": "One:One",
+  "status": "Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f1a"
+  },
+  "name": "Craig King",
+  "available_slot": 1710522000000,
+  "fees": "£23.98",
+  "session_type": "Group",
+  "status": "Not Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f1b"
+  },
+  "name": "Erica Rice",
+  "available_slot": 1710615600000,
+  "fees": "£79.74",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f1c"
+  },
+  "name": "Joseph Trujillo",
+  "available_slot": 1710878400000,
+  "fees": "£59.86",
+  "session_type": "One:One",
+  "status": "Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f1d"
+  },
+  "name": "Chad Williams",
+  "available_slot": 1711130400000,
+  "fees": "£11.71",
+  "session_type": "One:One",
+  "status": "Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f1e"
+  },
+  "name": "John Hernandez",
+  "available_slot": 1711288800000,
+  "fees": "£81.69",
+  "session_type": "Group",
+  "status": "Not Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f1f"
+  },
+  "name": "Stephen Johnson",
+  "available_slot": 1711353600000,
+  "fees": "£78.46",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f20"
+  },
+  "name": "Patricia Scott",
+  "available_slot": 1711364400000,
+  "fees": "£38.6",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f21"
+  },
+  "name": "Richard Keller",
+  "available_slot": 1711551600000,
+  "fees": "£57.83",
+  "session_type": "Group",
+  "status": "Not Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f22"
+  },
+  "name": "Julian Wells",
+  "available_slot": 1711641600000,
+  "fees": "£82.55",
+  "session_type": "One:One",
+  "status": "Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f23"
+  },
+  "name": "Karina Vance",
+  "available_slot": 1712239200000,
+  "fees": "£92.91",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f24"
+  },
+  "name": "Kayla Price",
+  "available_slot": 1712419200000,
+  "fees": "£76.15",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f25"
+  },
+  "name": "Luis Bean",
+  "available_slot": 1712430000000,
+  "fees": "£71.07",
+  "session_type": "Group",
+  "status": "Not Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f26"
+  },
+  "name": "Joyce Oconnor",
+  "available_slot": 1712480400000,
+  "fees": "£27.02",
+  "session_type": "One:One",
+  "status": "Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f27"
+  },
+  "name": "Kenneth Rangel",
+  "available_slot": 1712559600000,
+  "fees": "£16.54",
+  "session_type": "One:One",
+  "status": "Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f28"
+  },
+  "name": "Bryce Todd",
+  "available_slot": 1712606400000,
+  "fees": "£51.33",
+  "session_type": "One:One",
+  "status": "Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f29"
+  },
+  "name": "Carolyn Walker",
+  "available_slot": 1712930400000,
+  "fees": "£91.85",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f2a"
+  },
+  "name": "Benjamin Silva",
+  "available_slot": 1712995200000,
+  "fees": "£55.57",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f2b"
+  },
+  "name": "Thomas Martinez",
+  "available_slot": 1713020400000,
+  "fees": "£42.93",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f2c"
+  },
+  "name": "Christine Wallace",
+  "available_slot": 1713081600000,
+  "fees": "£20.89",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f2d"
+  },
+  "name": "Samuel Smith",
+  "available_slot": 1713106800000,
+  "fees": "£86.98",
+  "session_type": "Group",
+  "status": "Not Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f2e"
+  },
+  "name": "Autumn Cardenas",
+  "available_slot": 1713286800000,
+  "fees": "£84.84",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f2f"
+  },
+  "name": "Nicole White",
+  "available_slot": 1713463200000,
+  "fees": "£61.19",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f30"
+  },
+  "name": "Tracy Gonzalez",
+  "available_slot": 1713610800000,
+  "fees": "£32.58",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f31"
+  },
+  "name": "Maxwell Montgomery",
+  "available_slot": 1714060800000,
+  "fees": "£76.2",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f32"
+  },
+  "name": "Sharon Brooks",
+  "available_slot": 1714060800000,
+  "fees": "£48.32",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f33"
+  },
+  "name": "Carol Robertson",
+  "available_slot": 1714590000000,
+  "fees": "£61.88",
+  "session_type": "Group",
+  "status": "Not Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f34"
+  },
+  "name": "Joan Roberts",
+  "available_slot": 1715018400000,
+  "fees": "£90.66",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f35"
+  },
+  "name": "Kathy Bryant",
+  "available_slot": 1715194800000,
+  "fees": "£40.93",
+  "session_type": "One:One",
+  "status": "Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f36"
+  },
+  "name": "Kristen Jones",
+  "available_slot": 1715540400000,
+  "fees": "£25.47",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f37"
+  },
+  "name": "Jennifer Fisher",
+  "available_slot": 1715875200000,
+  "fees": "£15.92",
+  "session_type": "Group",
+  "status": "Not Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f38"
+  },
+  "name": "Katherine Shea",
+  "available_slot": 1716130800000,
+  "fees": "£32.28",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f39"
+  },
+  "name": "Rachel Carlson",
+  "available_slot": 1716624000000,
+  "fees": "£47.25",
+  "session_type": "Group",
+  "status": "Not Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f3a"
+  },
+  "name": "Pamela Williamson",
+  "available_slot": 1716710400000,
+  "fees": "£44.76",
+  "session_type": "Group",
+  "status": "Not Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f3b"
+  },
+  "name": "Barry Perez",
+  "available_slot": 1716818400000,
+  "fees": "£48.66",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f3c"
+  },
+  "name": "Melanie Woods",
+  "available_slot": 1716818400000,
+  "fees": "£87.24",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f3d"
+  },
+  "name": "Bradley Pierce",
+  "available_slot": 1717848000000,
+  "fees": "£25.64",
+  "session_type": "One:One",
+  "status": "Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f3e"
+  },
+  "name": "Victoria Gibson",
+  "available_slot": 1717945200000,
+  "fees": "£13.34",
+  "session_type": "Group",
+  "status": "Not Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f3f"
+  },
+  "name": "Richard Bruce",
+  "available_slot": 1718136000000,
+  "fees": "£39.64",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f40"
+  },
+  "name": "John Bradshaw",
+  "available_slot": 1718298000000,
+  "fees": "£55.85",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f41"
+  },
+  "name": "Joe Chandler",
+  "available_slot": 1718391600000,
+  "fees": "£99.34",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f42"
+  },
+  "name": "James Reid",
+  "available_slot": 1718956800000,
+  "fees": "£95.9",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f43"
+  },
+  "name": "Stacey Holland",
+  "available_slot": 1719331200000,
+  "fees": "£16.91",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f44"
+  },
+  "name": "Margaret Thompson",
+  "available_slot": 1719338400000,
+  "fees": "£55.06",
+  "session_type": "One:One",
+  "status": "Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f45"
+  },
+  "name": "Brenda Aguirre",
+  "available_slot": 1719579600000,
+  "fees": "£66.84",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f46"
+  },
+  "name": "Robert Newman",
+  "available_slot": 1719594000000,
+  "fees": "£32.59",
+  "session_type": "One:One",
+  "status": "Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f47"
+  },
+  "name": "Jessica Allen",
+  "available_slot": 1719601200000,
+  "fees": "£73.17",
+  "session_type": "One:One",
+  "status": "Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f48"
+  },
+  "name": "Kyle Cole",
+  "available_slot": 1719828000000,
+  "fees": "£16.07",
+  "session_type": "Group",
+  "status": "Not Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f49"
+  },
+  "name": "Daniel Mccormick",
+  "available_slot": 1719946800000,
+  "fees": "£99.84",
+  "session_type": "One:One",
+  "status": "Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f4a"
+  },
+  "name": "Dylan Bolton",
+  "available_slot": 1719946800000,
+  "fees": "£36.12",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f4b"
+  },
+  "name": "Kimberly Parker",
+  "available_slot": 1720375200000,
+  "fees": "£74.69",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f4c"
+  },
+  "name": "John Hawkins",
+  "available_slot": 1720429200000,
+  "fees": "£94.06",
+  "session_type": "One:One",
+  "status": "Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f4d"
+  },
+  "name": "Kevin Dixon",
+  "available_slot": 1720544400000,
+  "fees": "£31.01",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f4e"
+  },
+  "name": "Jasmine Knapp",
+  "available_slot": 1720548000000,
+  "fees": "£41.01",
+  "session_type": "Group",
+  "status": "Not Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f4f"
+  },
+  "name": "Mary Hendricks",
+  "available_slot": 1720796400000,
+  "fees": "£68.26",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f50"
+  },
+  "name": "Jay Fowler",
+  "available_slot": 1721246400000,
+  "fees": "£64.39",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f51"
+  },
+  "name": "Henry Shields",
+  "available_slot": 1721412000000,
+  "fees": "£93.73",
+  "session_type": "One:One",
+  "status": "Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f52"
+  },
+  "name": "Micheal Hall",
+  "available_slot": 1721584800000,
+  "fees": "£24.44",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f53"
+  },
+  "name": "Kendra Johnson",
+  "available_slot": 1721718000000,
+  "fees": "£83.29",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f54"
+  },
+  "name": "Maria Smith",
+  "available_slot": 1721818800000,
+  "fees": "£10.82",
+  "session_type": "One:One",
+  "status": "Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f55"
+  },
+  "name": "Brandon Gonzalez",
+  "available_slot": 1721991600000,
+  "fees": "£35.03",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f56"
+  },
+  "name": "David Bowman",
+  "available_slot": 1722002400000,
+  "fees": "£27.65",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f57"
+  },
+  "name": "Steve Martin",
+  "available_slot": 1722020400000,
+  "fees": "£77.66",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f58"
+  },
+  "name": "Sarah White",
+  "available_slot": 1722020400000,
+  "fees": "£54.33",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f59"
+  },
+  "name": "Judy Williams",
+  "available_slot": 1722088800000,
+  "fees": "£73.6",
+  "session_type": "Group",
+  "status": "Not Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f5a"
+  },
+  "name": "Timothy Johnson",
+  "available_slot": 1722409200000,
+  "fees": "£89.71",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f5b"
+  },
+  "name": "Troy Williams",
+  "available_slot": 1722409200000,
+  "fees": "£29.41",
+  "session_type": "One:One",
+  "status": "Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f5c"
+  },
+  "name": "David Nguyen",
+  "available_slot": 1722409200000,
+  "fees": "£34.53",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f5d"
+  },
+  "name": "Joseph Lyons",
+  "available_slot": 1722409200000,
+  "fees": "£23.1",
+  "session_type": "Group",
+  "status": "Not Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f5e"
+  },
+  "name": "Katie Mclean",
+  "available_slot": 1722409200000,
+  "fees": "£46.48",
+  "session_type": "Group",
+  "status": "Not Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f5f"
+  },
+  "name": "Jasmine Wong",
+  "available_slot": 1722409200000,
+  "fees": "£28.02",
+  "session_type": "One:One",
+  "status": "Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f60"
+  },
+  "name": "James Kim",
+  "available_slot": 1722412800000,
+  "fees": "£28.2",
+  "session_type": "Group",
+  "status": "Not Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f61"
+  },
+  "name": "Dustin Marshall",
+  "available_slot": 1722412800000,
+  "fees": "£63.66",
+  "session_type": "One:One",
+  "status": "Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f62"
+  },
+  "name": "Kayla Hernandez",
+  "available_slot": 1722412800000,
+  "fees": "£87.82",
+  "session_type": "Group",
+  "status": "Not Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f63"
+  },
+  "name": "Barbara Holt",
+  "available_slot": 1722412800000,
+  "fees": "£62.08",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f64"
+  },
+  "name": "Hannah Durham",
+  "available_slot": 1722416400000,
+  "fees": "£13.65",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f65"
+  },
+  "name": "Maria Scott",
+  "available_slot": 1722416400000,
+  "fees": "£64.43",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f66"
+  },
+  "name": "Amy Cox",
+  "available_slot": 1722416400000,
+  "fees": "£97.6",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f67"
+  },
+  "name": "Emma Perry",
+  "available_slot": 1722416400000,
+  "fees": "£57.55",
+  "session_type": "Group",
+  "status": "Not Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f68"
+  },
+  "name": "Brian Smith",
+  "available_slot": 1722416400000,
+  "fees": "£98.93",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f69"
+  },
+  "name": "Jeanette Perez",
+  "available_slot": 1722416400000,
+  "fees": "£11.43",
+  "session_type": "One:One",
+  "status": "Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f6a"
+  },
+  "name": "Justin Wells",
+  "available_slot": 1722416400000,
+  "fees": "£65.56",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f6b"
+  },
+  "name": "Heidi Ray",
+  "available_slot": 1722420000000,
+  "fees": "£82.02",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f6c"
+  },
+  "name": "Stephanie Douglas",
+  "available_slot": 1722420000000,
+  "fees": "£48.01",
+  "session_type": "Group",
+  "status": "Not Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f6d"
+  },
+  "name": "Jonathan Peters",
+  "available_slot": 1722420000000,
+  "fees": "£47.25",
+  "session_type": "One:One",
+  "status": "Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f6e"
+  },
+  "name": "Caitlin Morgan",
+  "available_slot": 1722420000000,
+  "fees": "£70.3",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f6f"
+  },
+  "name": "Stephanie Booth",
+  "available_slot": 1722420000000,
+  "fees": "£26.87",
+  "session_type": "Group",
+  "status": "Not Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f70"
+  },
+  "name": "Terri Peters",
+  "available_slot": 1722423600000,
+  "fees": "£57.01",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f71"
+  },
+  "name": "Joseph Rich",
+  "available_slot": 1722423600000,
+  "fees": "£77.6",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f72"
+  },
+  "name": "Jacqueline Maxwell",
+  "available_slot": 1722423600000,
+  "fees": "£76.84",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f73"
+  },
+  "name": "Sabrina Mcgee",
+  "available_slot": 1722423600000,
+  "fees": "£27.11",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f74"
+  },
+  "name": "Stacy Taylor",
+  "available_slot": 1722423600000,
+  "fees": "£75.04",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f75"
+  },
+  "name": "Eric Warren",
+  "available_slot": 1722423600000,
+  "fees": "£65.85",
+  "session_type": "One:One",
+  "status": "Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f76"
+  },
+  "name": "Adam Hall",
+  "available_slot": 1722423600000,
+  "fees": "£10.6",
+  "session_type": "Group",
+  "status": "Not Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f77"
+  },
+  "name": "Sean Casey",
+  "available_slot": 1722427200000,
+  "fees": "£37.71",
+  "session_type": "Group",
+  "status": "Not Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f78"
+  },
+  "name": "Amanda Smith",
+  "available_slot": 1722427200000,
+  "fees": "£75.64",
+  "session_type": "One:One",
+  "status": "Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f79"
+  },
+  "name": "Matthew Hayes",
+  "available_slot": 1722427200000,
+  "fees": "£22.01",
+  "session_type": "Group",
+  "status": "Not Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f7a"
+  },
+  "name": "Emily Lopez",
+  "available_slot": 1722427200000,
+  "fees": "£41.42",
+  "session_type": "One:One",
+  "status": "Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f7b"
+  },
+  "name": "Michael Simpson",
+  "available_slot": 1722427200000,
+  "fees": "£49.42",
+  "session_type": "One:One",
+  "status": "Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f7c"
+  },
+  "name": "Joseph Sims",
+  "available_slot": 1722427200000,
+  "fees": "£68.06",
+  "session_type": "One:One",
+  "status": "Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f7d"
+  },
+  "name": "Teresa James",
+  "available_slot": 1722427200000,
+  "fees": "£22.46",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f7e"
+  },
+  "name": "David Schultz",
+  "available_slot": 1722427200000,
+  "fees": "£76.33",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f7f"
+  },
+  "name": "Michael Martinez",
+  "available_slot": 1722427200000,
+  "fees": "£63.05",
+  "session_type": "Group",
+  "status": "Not Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f80"
+  },
+  "name": "Lisa Miller",
+  "available_slot": 1722427200000,
+  "fees": "£20.9",
+  "session_type": "Group",
+  "status": "Not Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f81"
+  },
+  "name": "Kristina Miller",
+  "available_slot": 1722430800000,
+  "fees": "£48.51",
+  "session_type": "One:One",
+  "status": "Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f82"
+  },
+  "name": "Angel Carpenter",
+  "available_slot": 1722430800000,
+  "fees": "£37.27",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f83"
+  },
+  "name": "Chelsea Griffin",
+  "available_slot": 1722430800000,
+  "fees": "£50.27",
+  "session_type": "Group",
+  "status": "Not Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f84"
+  },
+  "name": "Isabel Gillespie",
+  "available_slot": 1722430800000,
+  "fees": "£51.02",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f85"
+  },
+  "name": "Shannon Summers",
+  "available_slot": 1722434400000,
+  "fees": "£30.64",
+  "session_type": "Group",
+  "status": "Not Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f86"
+  },
+  "name": "Brian Schwartz",
+  "available_slot": 1722434400000,
+  "fees": "£30.14",
+  "session_type": "One:One",
+  "status": "Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f87"
+  },
+  "name": "Erik Marshall",
+  "available_slot": 1722434400000,
+  "fees": "£82.36",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f88"
+  },
+  "name": "Miranda Owen",
+  "available_slot": 1722434400000,
+  "fees": "£83.18",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f89"
+  },
+  "name": "Karina Weaver",
+  "available_slot": 1722434400000,
+  "fees": "£50.94",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f8a"
+  },
+  "name": "Mariah Cooke",
+  "available_slot": 1722438000000,
+  "fees": "£33.48",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f8b"
+  },
+  "name": "Elizabeth Knight",
+  "available_slot": 1722438000000,
+  "fees": "£12.05",
+  "session_type": "Group",
+  "status": "Not Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f8c"
+  },
+  "name": "Timothy Sharp",
+  "available_slot": 1722438000000,
+  "fees": "£95.43",
+  "session_type": "Group",
+  "status": "Not Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f8d"
+  },
+  "name": "Douglas Braun",
+  "available_slot": 1722438000000,
+  "fees": "£81.57",
+  "session_type": "Group",
+  "status": "Not Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f8e"
+  },
+  "name": "Jennifer Woods",
+  "available_slot": 1722438000000,
+  "fees": "£38.78",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f8f"
+  },
+  "name": "Jay Middleton",
+  "available_slot": 1722438000000,
+  "fees": "£32.89",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f90"
+  },
+  "name": "Michael Jackson",
+  "available_slot": 1722438000000,
+  "fees": "£47.9",
+  "session_type": "One:One",
+  "status": "Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f91"
+  },
+  "name": "Joyce Murphy",
+  "available_slot": 1722438000000,
+  "fees": "£20.59",
+  "session_type": "One:One",
+  "status": "Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f92"
+  },
+  "name": "Nicole Price",
+  "available_slot": 1722438000000,
+  "fees": "£75.3",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f93"
+  },
+  "name": "Anna Lindsey",
+  "available_slot": 1722441600000,
+  "fees": "£82.01",
+  "session_type": "Group",
+  "status": "Not Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f94"
+  },
+  "name": "Renee Wiggins",
+  "available_slot": 1722441600000,
+  "fees": "£31.69",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f95"
+  },
+  "name": "Sarah Evans",
+  "available_slot": 1722441600000,
+  "fees": "£36.76",
+  "session_type": "One:One",
+  "status": "Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f96"
+  },
+  "name": "Carla Fischer",
+  "available_slot": 1722441600000,
+  "fees": "£24.9",
+  "session_type": "Group",
+  "status": "Not Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f97"
+  },
+  "name": "Johnny Lara",
+  "available_slot": 1722441600000,
+  "fees": "£49.39",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f98"
+  },
+  "name": "Mary Willis",
+  "available_slot": 1722441600000,
+  "fees": "£14.92",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f99"
+  },
+  "name": "Stephen Turner",
+  "available_slot": 1722441600000,
+  "fees": "£30.93",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f9a"
+  },
+  "name": "Virginia Cohen",
+  "available_slot": 1722441600000,
+  "fees": "£93.39",
+  "session_type": "One:One",
+  "status": "Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f9b"
+  },
+  "name": "Tina Miller",
+  "available_slot": 1722441600000,
+  "fees": "£47.15",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f9c"
+  },
+  "name": "Veronica Brown",
+  "available_slot": 1722445200000,
+  "fees": "£96.57",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f9d"
+  },
+  "name": "Frank White",
+  "available_slot": 1722445200000,
+  "fees": "£54.87",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f9e"
+  },
+  "name": "Justin Wells",
+  "available_slot": 1722448800000,
+  "fees": "£62.5",
+  "session_type": "Group",
+  "status": "Not Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39f9f"
+  },
+  "name": "Julie Avery",
+  "available_slot": 1722448800000,
+  "fees": "£47.38",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39fa0"
+  },
+  "name": "Donna Arnold",
+  "available_slot": 1722448800000,
+  "fees": "£38.07",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39fa1"
+  },
+  "name": "Tiffany Krause",
+  "available_slot": 1722448800000,
+  "fees": "£17.85",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39fa2"
+  },
+  "name": "Andrew Russell",
+  "available_slot": 1722448800000,
+  "fees": "£66.12",
+  "session_type": "One:One",
+  "status": "Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39fa3"
+  },
+  "name": "Christian Holland",
+  "available_slot": 1722448800000,
+  "fees": "£67.07",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39fa4"
+  },
+  "name": "William Ayers",
+  "available_slot": 1722452400000,
+  "fees": "£39.82",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39fa5"
+  },
+  "name": "Michael Miller",
+  "available_slot": 1722452400000,
+  "fees": "£72.81",
+  "session_type": "Group",
+  "status": "Not Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39fa6"
+  },
+  "name": "Patricia Berg",
+  "available_slot": 1722452400000,
+  "fees": "£70.24",
+  "session_type": "Group",
+  "status": "Not Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39fa7"
+  },
+  "name": "Kyle Thompson",
+  "available_slot": 1722452400000,
+  "fees": "£51.02",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39fa8"
+  },
+  "name": "Michael Lee",
+  "available_slot": 1722452400000,
+  "fees": "£10.65",
+  "session_type": "Group",
+  "status": "Not Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39fa9"
+  },
+  "name": "Ashley Harrington",
+  "available_slot": 1722452400000,
+  "fees": "£60.82",
+  "session_type": "Group",
+  "status": "Not Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39faa"
+  },
+  "name": "Maurice Ball",
+  "available_slot": 1722452400000,
+  "fees": "£13.41",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39fab"
+  },
+  "name": "Jeffrey Yang",
+  "available_slot": 1722452400000,
+  "fees": "£58.66",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39fac"
+  },
+  "name": "Elizabeth Reeves",
+  "available_slot": 1722452400000,
+  "fees": "£75.74",
+  "session_type": "Group",
+  "status": "Not Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39fad"
+  },
+  "name": "Edward Dunlap",
+  "available_slot": 1722452400000,
+  "fees": "£63.89",
+  "session_type": "One:One",
+  "status": "Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39fae"
+  },
+  "name": "Scott Parker",
+  "available_slot": 1722452400000,
+  "fees": "£59.67",
+  "session_type": "Group",
+  "status": "Not Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39faf"
+  },
+  "name": "Michelle Perez",
+  "available_slot": 1722456000000,
+  "fees": "£72.12",
+  "session_type": "One:One",
+  "status": "Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39fb0"
+  },
+  "name": "Andrew Powell",
+  "available_slot": 1722456000000,
+  "fees": "£80.19",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39fb1"
+  },
+  "name": "Scott Williams",
+  "available_slot": 1722456000000,
+  "fees": "£70.15",
+  "session_type": "One:One",
+  "status": "Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39fb2"
+  },
+  "name": "Elizabeth Molina",
+  "available_slot": 1722456000000,
+  "fees": "£88.8",
+  "session_type": "One:One",
+  "status": "Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39fb3"
+  },
+  "name": "Melody Berry",
+  "available_slot": 1722456000000,
+  "fees": "£79.08",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39fb4"
+  },
+  "name": "Kathleen Sanders",
+  "available_slot": 1722456000000,
+  "fees": "£24.47",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Intermediate"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39fb5"
+  },
+  "name": "Susan Simmons",
+  "available_slot": 1722456000000,
+  "fees": "£25.87",
+  "session_type": "Group",
+  "status": "Not Booked",
+  "level": "Advance"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39fb6"
+  },
+  "name": "Curtis Jones",
+  "available_slot": 1722456000000,
+  "fees": "£28.16",
+  "session_type": "One:One",
+  "status": "Not Booked",
+  "level": "Beginner"
+},
+{
+  "_id": {
+    "$oid": "65c8fed9d9d0a85436e39fb7"
+  },
+  "name": "Abigail Roberson",
+  "available_slot": 1722456000000,
+  "fees": "£33.15",
+  "session_type": "Group",
+  "status": "Booked",
+  "level": "Intermediate"
+}]

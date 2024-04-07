@@ -1,0 +1,168 @@
+2024-02-11 07:19:54,239 : INFO : assistant.controllers.helpers : File: 'assistant/pose_info/pose_prompt.yaml' is loaded
+2024-02-11 07:19:55,251 : INFO : assistant.controllers.helpers : File: 'assistant/pose_info/pose_prompt.yaml' is loaded
+2024-02-11 07:20:01,577 : INFO : __main__ : in DB INSERT ROUTE
+2024-02-11 07:20:01,578 : ERROR : assistant.controllers.helpers : Internal server exception occured: 'HELPER' object has no attribute 'check_boolean_param'
+Traceback (most recent call last):
+  File "/home/letsbenobody/assistant/database_handler/run.py", line 30, in insert
+    overwrite = helpers_obj.check_boolean_param(overwrite)
+AttributeError: 'HELPER' object has no attribute 'check_boolean_param'
+2024-02-11 07:20:18,957 : INFO : __main__ : in DB INSERT ROUTE
+2024-02-11 07:20:18,957 : ERROR : assistant.controllers.helpers : Internal server exception occured: 'HELPER' object has no attribute 'check_boolean_param'
+Traceback (most recent call last):
+  File "/home/letsbenobody/assistant/database_handler/run.py", line 30, in insert
+    overwrite = helpers_obj.check_boolean_param(overwrite)
+AttributeError: 'HELPER' object has no attribute 'check_boolean_param'
+2024-02-11 07:20:25,735 : INFO : assistant.controllers.helpers : File: 'assistant/pose_info/pose_prompt.yaml' is loaded
+2024-02-11 07:20:26,665 : INFO : assistant.controllers.helpers : File: 'assistant/pose_info/pose_prompt.yaml' is loaded
+2024-02-11 07:20:33,613 : INFO : __main__ : in DB INSERT ROUTE
+2024-02-11 07:20:33,614 : ERROR : assistant.controllers.helpers : Internal server exception occured: [Errno 2] No such file or directory: 'assistant/database_handler/data/slots.json'
+Traceback (most recent call last):
+  File "/home/letsbenobody/assistant/database_handler/run.py", line 32, in insert
+    data = helpers_obj.file_handler(filepath=f"{constants.DB_ROOT_DIR}/data/{file_name}")
+  File "/home/letsbenobody/assistant/controllers/helpers.py", line 36, in file_handler
+    with open(filepath,"r") as file:
+FileNotFoundError: [Errno 2] No such file or directory: 'assistant/database_handler/data/slots.json'
+2024-02-11 07:20:59,669 : INFO : __main__ : in DB INSERT ROUTE
+2024-02-11 07:20:59,671 : INFO : assistant.controllers.helpers : File: 'assistant/database_handler/data/slots_data.json' is loaded
+2024-02-11 07:21:35,762 : INFO : __main__ : in DB INSERT ROUTE
+2024-02-11 07:21:35,763 : INFO : assistant.controllers.helpers : File: 'assistant/database_handler/data/slots_data.json' is loaded
+2024-02-11 07:21:50,601 : INFO : __main__ : in DB INSERT ROUTE
+2024-02-11 07:21:50,603 : INFO : assistant.controllers.helpers : File: 'assistant/database_handler/data/slots_data.json' is loaded
+2024-02-11 07:21:56,180 : INFO : assistant.controllers.helpers : File: 'assistant/pose_info/pose_prompt.yaml' is loaded
+2024-02-11 07:21:57,215 : INFO : assistant.controllers.helpers : File: 'assistant/pose_info/pose_prompt.yaml' is loaded
+2024-02-11 07:22:00,131 : INFO : __main__ : in DB INSERT ROUTE
+2024-02-11 07:22:00,133 : INFO : assistant.controllers.helpers : File: 'assistant/database_handler/data/slots_data.json' is loaded
+2024-02-11 07:22:43,575 : INFO : assistant.controllers.helpers : File: 'assistant/pose_info/pose_prompt.yaml' is loaded
+2024-02-11 07:22:44,374 : INFO : assistant.controllers.helpers : File: 'assistant/pose_info/pose_prompt.yaml' is loaded
+2024-02-11 07:22:46,905 : INFO : __main__ : in DB INSERT ROUTE
+2024-02-11 07:22:46,905 : INFO : assistant.controllers.helpers : File: 'assistant/database_handler/data/slots_data.json' is loaded
+2024-02-11 07:23:17,193 : INFO : assistant.controllers.helpers : File: 'assistant/pose_info/pose_prompt.yaml' is loaded
+2024-02-11 07:23:17,985 : INFO : assistant.controllers.helpers : File: 'assistant/pose_info/pose_prompt.yaml' is loaded
+2024-02-11 07:23:20,611 : INFO : __main__ : in DB INSERT ROUTE
+2024-02-11 07:23:20,612 : INFO : assistant.controllers.helpers : File: 'assistant/database_handler/data/slots_data.json' is loaded
+2024-02-11 07:25:03,955 : INFO : assistant.controllers.helpers : File: 'assistant/pose_info/pose_prompt.yaml' is loaded
+2024-02-11 07:25:04,844 : INFO : assistant.controllers.helpers : File: 'assistant/pose_info/pose_prompt.yaml' is loaded
+2024-02-11 07:25:07,727 : INFO : __main__ : in DB INSERT ROUTE
+2024-02-11 07:25:07,728 : INFO : assistant.controllers.helpers : File: 'assistant/database_handler/data/slots_data.json' is loaded
+2024-02-11 07:25:07,745 : INFO : __main__ : 'slots' is removed
+2024-02-11 07:31:46,214 : INFO : assistant.controllers.helpers : File: 'assistant/pose_info/pose_prompt.yaml' is loaded
+2024-02-11 07:31:47,120 : INFO : assistant.controllers.helpers : File: 'assistant/pose_info/pose_prompt.yaml' is loaded
+2024-02-11 07:31:55,613 : INFO : __main__ : in DB INSERT ROUTE
+2024-02-11 07:31:55,614 : ERROR : assistant.controllers.helpers : Internal server exception occured: 'NoneType' object has no attribute 'lower'
+Traceback (most recent call last):
+  File "/home/letsbenobody/assistant/database_handler/run.py", line 30, in insert
+    overwrite = helpers_obj.check_boolean_param(overwrite)
+  File "/home/letsbenobody/assistant/controllers/helpers.py", line 46, in check_boolean_param
+    if param.lower() == "false":
+AttributeError: 'NoneType' object has no attribute 'lower'
+2024-02-11 07:32:10,555 : INFO : __main__ : in DB INSERT ROUTE
+2024-02-11 07:32:10,556 : INFO : assistant.controllers.helpers : File: 'assistant/database_handler/data/slots_data.json' is loaded
+2024-02-11 07:32:27,164 : INFO : __main__ : in DB INSERT ROUTE
+2024-02-11 07:32:27,165 : INFO : assistant.controllers.helpers : File: 'assistant/database_handler/data/slots_data.json' is loaded
+2024-02-11 07:32:27,173 : INFO : __main__ : Collection: 'slots' is removed from DB : 'SN_DATABASE'
+2024-02-11 07:36:43,136 : INFO : assistant.controllers.helpers : File: 'assistant/pose_info/pose_prompt.yaml' is loaded
+2024-02-11 07:36:43,910 : INFO : assistant.controllers.helpers : File: 'assistant/pose_info/pose_prompt.yaml' is loaded
+2024-02-11 07:36:49,901 : INFO : __main__ : in DB INSERT ROUTE
+2024-02-11 07:36:49,902 : ERROR : assistant.controllers.helpers : Internal server exception occured: 'bool' object has no attribute 'lower'
+Traceback (most recent call last):
+  File "/home/letsbenobody/assistant/database_handler/run.py", line 30, in insert
+    overwrite = helpers_obj.check_boolean_param(overwrite)
+  File "/home/letsbenobody/assistant/controllers/helpers.py", line 46, in check_boolean_param
+    if param.lower() == "false":
+AttributeError: 'bool' object has no attribute 'lower'
+2024-02-11 07:38:09,546 : INFO : assistant.controllers.helpers : File: 'assistant/pose_info/pose_prompt.yaml' is loaded
+2024-02-11 07:38:10,386 : INFO : assistant.controllers.helpers : File: 'assistant/pose_info/pose_prompt.yaml' is loaded
+2024-02-11 07:38:13,008 : INFO : __main__ : in DB INSERT ROUTE
+2024-02-11 07:38:13,009 : INFO : assistant.controllers.helpers : File: 'assistant/database_handler/data/slots_data.json' is loaded
+2024-02-11 07:38:34,476 : INFO : __main__ : in DB INSERT ROUTE
+2024-02-11 07:38:34,477 : INFO : assistant.controllers.helpers : File: 'assistant/database_handler/data/slots_data.json' is loaded
+2024-02-11 07:38:34,485 : INFO : __main__ : Collection: 'slots' is removed from DB : 'SN_DATABASE'
+2024-02-11 12:21:26,385 : INFO : assistant.controllers.helpers : File: 'assistant/pose_info/pose_prompt.yaml' is loaded
+2024-02-11 12:21:27,396 : INFO : assistant.controllers.helpers : File: 'assistant/pose_info/pose_prompt.yaml' is loaded
+2024-02-11 12:21:39,963 : INFO : __main__ : in DB INSERT ROUTE
+2024-02-11 12:21:39,964 : INFO : assistant.controllers.helpers : File: 'assistant/database_handler/data/slots_data.json' is loaded
+2024-02-11 12:21:40,003 : INFO : __main__ : Collection: 'slots' is removed from DB : 'yoga_db'
+2024-02-11 12:22:52,065 : INFO : assistant.controllers.helpers : File: 'assistant/pose_info/pose_prompt.yaml' is loaded
+2024-02-11 12:22:52,800 : INFO : assistant.controllers.helpers : File: 'assistant/pose_info/pose_prompt.yaml' is loaded
+2024-02-11 12:22:56,680 : INFO : __main__ : in DB INSERT ROUTE
+2024-02-11 12:22:56,681 : INFO : assistant.controllers.helpers : File: 'assistant/database_handler/data/slots_data.json' is loaded
+2024-02-11 12:22:56,694 : INFO : __main__ : Collection: 'slots' is removed from DB : 'SN_DATABASE'
+2024-02-11 13:12:08,984 : INFO : assistant.controllers.helpers : File: 'assistant/pose_info/pose_prompt.yaml' is loaded
+2024-02-11 13:12:09,797 : INFO : assistant.controllers.helpers : File: 'assistant/pose_info/pose_prompt.yaml' is loaded
+2024-02-11 13:12:26,496 : INFO : __main__ : in DB INSERT ROUTE
+2024-02-11 13:12:26,497 : INFO : assistant.controllers.helpers : File: 'assistant/database_handler/data/slots_data.json' is loaded
+2024-02-11 13:12:26,508 : INFO : __main__ : Collection: 'slots' is removed from DB : 'yoga_db'
+2024-02-11 13:12:42,890 : INFO : __main__ : in DB INSERT ROUTE
+2024-02-11 13:12:42,891 : INFO : assistant.controllers.helpers : File: 'assistant/database_handler/data/learn_and_grow.json' is loaded
+2024-02-11 13:12:42,897 : INFO : __main__ : Collection: 'learn_and_grow' is removed from DB : 'yoga_db'
+2024-02-11 13:13:21,028 : INFO : __main__ : in DB INSERT ROUTE
+2024-02-11 13:13:21,028 : INFO : assistant.controllers.helpers : File: 'assistant/database_handler/data/slots_data.json' is loaded
+2024-02-11 13:13:21,035 : INFO : __main__ : Collection: 'slots' is removed from DB : 'yoga_db'
+2024-02-11 15:28:14,833 : INFO : __main__ : in DB INSERT ROUTE
+2024-02-11 15:28:14,838 : INFO : assistant.controllers.helpers : File: 'assistant/database_handler/data/slots_data.json' is loaded
+2024-02-11 15:28:14,859 : INFO : __main__ : Collection: 'slots' is removed from DB : 'yoga_db'
+2024-02-11 15:29:10,727 : INFO : __main__ : in DB INSERT ROUTE
+2024-02-11 15:29:10,729 : INFO : assistant.controllers.helpers : File: 'assistant/database_handler/data/slots_data.json' is loaded
+2024-02-11 15:29:10,737 : INFO : __main__ : Collection: 'slots' is removed from DB : 'yoga_db'
+2024-02-11 15:46:38,980 : INFO : __main__ : in DB INSERT ROUTE
+2024-02-11 15:46:38,984 : INFO : assistant.controllers.helpers : File: 'assistant/database_handler/data/slots_data.json' is loaded
+2024-02-11 15:46:39,002 : INFO : __main__ : Collection: 'slots' is removed from DB : 'yoga_db'
+2024-02-11 15:48:07,740 : INFO : __main__ : in DB INSERT ROUTE
+2024-02-11 15:48:07,741 : INFO : assistant.controllers.helpers : File: 'assistant/database_handler/data/learn_and_grow.json' is loaded
+2024-02-11 15:48:07,748 : INFO : __main__ : Collection: 'learn_and_grow' is removed from DB : 'yoga_db'
+2024-02-11 15:48:18,391 : INFO : __main__ : in DB INSERT ROUTE
+2024-02-11 15:48:18,392 : INFO : assistant.controllers.helpers : File: 'assistant/database_handler/data/slots_data.json' is loaded
+2024-02-11 15:48:18,398 : INFO : __main__ : Collection: 'slots' is removed from DB : 'yoga_db'
+2024-02-11 16:48:38,769 : INFO : __main__ : in DB INSERT ROUTE
+2024-02-11 16:48:38,773 : INFO : assistant.controllers.helpers : File: 'assistant/database_handler/data/slots_data.json' is loaded
+2024-02-11 16:48:38,788 : INFO : __main__ : Collection: 'slots' is removed from DB : 'yoga_db'
+2024-02-11 16:48:46,629 : INFO : __main__ : in DB INSERT ROUTE
+2024-02-11 16:48:46,629 : INFO : assistant.controllers.helpers : File: 'assistant/database_handler/data/learn_and_grow.json' is loaded
+2024-02-11 16:48:46,636 : INFO : __main__ : Collection: 'learn_and_grow' is removed from DB : 'yoga_db'
+2024-02-11 16:51:01,625 : INFO : __main__ : in DB INSERT ROUTE
+2024-02-11 16:51:01,626 : INFO : assistant.controllers.helpers : File: 'assistant/database_handler/data/learn_and_grow.json' is loaded
+2024-02-11 16:51:01,632 : INFO : __main__ : Collection: 'learn_and_grow' is removed from DB : 'yoga_db'
+2024-02-11 16:51:09,868 : INFO : __main__ : in DB INSERT ROUTE
+2024-02-11 16:51:09,869 : INFO : assistant.controllers.helpers : File: 'assistant/database_handler/data/slots_data.json' is loaded
+2024-02-11 16:51:09,875 : INFO : __main__ : Collection: 'slots' is removed from DB : 'yoga_db'
+2024-02-11 17:04:12,915 : INFO : __main__ : in DB INSERT ROUTE
+2024-02-11 17:04:12,918 : INFO : assistant.controllers.helpers : File: 'assistant/database_handler/data/slots_data.json' is loaded
+2024-02-11 17:04:12,936 : INFO : __main__ : Collection: 'slots' is removed from DB : 'yoga_db'
+2024-02-11 17:04:21,223 : INFO : __main__ : in DB INSERT ROUTE
+2024-02-11 17:04:21,223 : INFO : assistant.controllers.helpers : File: 'assistant/database_handler/data/learn_and_grow.json' is loaded
+2024-02-11 17:04:21,231 : INFO : __main__ : Collection: 'learn_and_grow' is removed from DB : 'yoga_db'
+2024-02-11 17:07:23,991 : INFO : assistant.controllers.helpers : File: 'assistant/pose_info/pose_prompt.yaml' is loaded
+2024-02-11 17:07:24,921 : INFO : assistant.controllers.helpers : File: 'assistant/pose_info/pose_prompt.yaml' is loaded
+2024-02-11 17:07:28,993 : INFO : __main__ : in DB INSERT ROUTE
+2024-02-11 17:07:28,994 : INFO : assistant.controllers.helpers : File: 'assistant/database_handler/data/learn_and_grow.json' is loaded
+2024-02-11 17:07:29,006 : INFO : __main__ : Collection: 'learn_and_grow' is removed from DB : 'yoga_db'
+2024-02-11 17:07:37,095 : INFO : __main__ : in DB INSERT ROUTE
+2024-02-11 17:07:37,097 : INFO : assistant.controllers.helpers : File: 'assistant/database_handler/data/slots_data.json' is loaded
+2024-02-11 17:07:37,102 : INFO : __main__ : Collection: 'slots' is removed from DB : 'yoga_db'
+2024-02-11 18:06:17,783 : INFO : __main__ : in DB INSERT ROUTE
+2024-02-11 18:06:17,787 : INFO : assistant.controllers.helpers : File: 'assistant/database_handler/data/slots_data_updated.json' is loaded
+2024-02-11 18:06:17,802 : INFO : __main__ : Collection: 'slots' is removed from DB : 'yoga_db'
+2024-02-11 18:06:17,806 : ERROR : assistant.controllers.helpers : Internal server exception occured: batch op errors occurred, full error: {'writeErrors': [{'index': 0, 'code': 52, 'errmsg': "_id fields may not contain '$'-prefixed fields: $oid is not valid for storage.", 'op': {'_id': {'$oid': '65c8fed9d9d0a85436e39ef0'}, 'name': 'Erik Chang', 'available_slot': '2024-01-02 12:00:00', 'fees': '£21.52', 'session_type': 'One:One', 'status': 'Not Booked', 'level': 'Beginner'}}], 'writeConcernErrors': [], 'nInserted': 0, 'nUpserted': 0, 'nMatched': 0, 'nModified': 0, 'nRemoved': 0, 'upserted': []}
+Traceback (most recent call last):
+  File "/home/letsbenobody/assistant/database_handler/run.py", line 43, in insert
+    db.insert_data(data,True)
+  File "/home/letsbenobody/assistant/database_handler/mongodb.py", line 17, in insert_data
+    result = self.collection.insert_many(data)
+  File "/home/letsbenobody/.venv/lib/python3.9/site-packages/pymongo/_csot.py", line 107, in csot_wrapper
+    return func(self, *args, **kwargs)
+  File "/home/letsbenobody/.venv/lib/python3.9/site-packages/pymongo/collection.py", line 755, in insert_many
+    blk.execute(write_concern, session=session)
+  File "/home/letsbenobody/.venv/lib/python3.9/site-packages/pymongo/bulk.py", line 576, in execute
+    return self.execute_command(generator, write_concern, session)
+  File "/home/letsbenobody/.venv/lib/python3.9/site-packages/pymongo/bulk.py", line 446, in execute_command
+    _raise_bulk_write_error(full_result)
+  File "/home/letsbenobody/.venv/lib/python3.9/site-packages/pymongo/bulk.py", line 157, in _raise_bulk_write_error
+    raise BulkWriteError(full_result)
+pymongo.errors.BulkWriteError: batch op errors occurred, full error: {'writeErrors': [{'index': 0, 'code': 52, 'errmsg': "_id fields may not contain '$'-prefixed fields: $oid is not valid for storage.", 'op': {'_id': {'$oid': '65c8fed9d9d0a85436e39ef0'}, 'name': 'Erik Chang', 'available_slot': '2024-01-02 12:00:00', 'fees': '£21.52', 'session_type': 'One:One', 'status': 'Not Booked', 'level': 'Beginner'}}], 'writeConcernErrors': [], 'nInserted': 0, 'nUpserted': 0, 'nMatched': 0, 'nModified': 0, 'nRemoved': 0, 'upserted': []}
+2024-02-11 18:08:31,724 : INFO : __main__ : in DB INSERT ROUTE
+2024-02-11 18:08:31,725 : INFO : assistant.controllers.helpers : File: 'assistant/database_handler/data/slots_data_updated.json' is loaded
+2024-02-11 18:08:31,731 : INFO : __main__ : Collection: 'slots' is removed from DB : 'yoga_db'
+2024-02-20 15:51:01,021 : INFO : assistant.controllers.helpers : File: 'assistant/pose_info/pose_prompt.yaml' is loaded
+2024-02-20 15:51:01,915 : INFO : assistant.controllers.helpers : File: 'assistant/pose_info/pose_prompt.yaml' is loaded
+2024-02-20 20:01:09,746 : INFO : assistant.controllers.helpers : File: 'assistant/pose_info/pose_prompt.yaml' is loaded
+2024-02-20 20:01:10,519 : INFO : assistant.controllers.helpers : File: 'assistant/pose_info/pose_prompt.yaml' is loaded
